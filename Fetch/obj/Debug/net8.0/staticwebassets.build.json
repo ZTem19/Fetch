@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q9F5DDs0OIqEpidFZ6X/JMihRGbaE1XngUiB0QFfWKQ=",
+  "Hash": "mcE41HrxWaO9nS+Nu3zQEG1geLuF/iumZDPTcFIjDIg=",
   "Source": "Fetch",
   "BasePath": "_content/Fetch",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "y0924zxxwg",
-      "Integrity": "MtrzHF2RkxlOKoNJulVpYXtnj1t60aOXteLvVrQnZQ0=",
+      "Fingerprint": "1l4cup4h9i",
+      "Integrity": "y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Fetch.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "y0924zxxwg",
-      "Integrity": "MtrzHF2RkxlOKoNJulVpYXtnj1t60aOXteLvVrQnZQ0=",
+      "Fingerprint": "1l4cup4h9i",
+      "Integrity": "y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fetch.bundle.scp.css"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mf391j96d7",
-      "Integrity": "Xql/MbongYOclZYryNYbD/JYkDx3mQyljZCgcRsnpvs=",
+      "Fingerprint": "twma7rzs1v",
+      "Integrity": "fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -92,7 +92,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2243"
+          "Value": "2301"
         },
         {
           "Name": "Content-Type",
@@ -100,11 +100,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xql/MbongYOclZYryNYbD/JYkDx3mQyljZCgcRsnpvs=\""
+          "Value": "\"fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 23:50:51 GMT"
+          "Value": "Fri, 06 Dec 2024 17:37:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -114,12 +114,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xql/MbongYOclZYryNYbD/JYkDx3mQyljZCgcRsnpvs="
+          "Value": "sha256-fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs="
         }
       ]
     },
     {
-      "Route": "app.mf391j96d7.css",
+      "Route": "app.twma7rzs1v.css",
       "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -129,7 +129,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2243"
+          "Value": "2301"
         },
         {
           "Name": "Content-Type",
@@ -137,11 +137,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xql/MbongYOclZYryNYbD/JYkDx3mQyljZCgcRsnpvs=\""
+          "Value": "\"fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 23:50:51 GMT"
+          "Value": "Fri, 06 Dec 2024 17:37:17 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -151,7 +151,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mf391j96d7"
+          "Value": "twma7rzs1v"
         },
         {
           "Name": "label",
@@ -159,7 +159,97 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xql/MbongYOclZYryNYbD/JYkDx3mQyljZCgcRsnpvs="
+          "Value": "sha256-fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs="
+        }
+      ]
+    },
+    {
+      "Route": "Fetch.1l4cup4h9i.bundle.scp.css",
+      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fetch.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 17:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1l4cup4h9i"
+        },
+        {
+          "Name": "label",
+          "Value": "Fetch.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08="
+        }
+      ]
+    },
+    {
+      "Route": "Fetch.1l4cup4h9i.styles.css",
+      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Fetch.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 06 Dec 2024 17:30:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1l4cup4h9i"
+        },
+        {
+          "Name": "label",
+          "Value": "Fetch.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08="
         }
       ]
     },
@@ -174,7 +264,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "496"
+          "Value": "618"
         },
         {
           "Name": "Content-Type",
@@ -182,11 +272,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MtrzHF2RkxlOKoNJulVpYXtnj1t60aOXteLvVrQnZQ0=\""
+          "Value": "\"y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 23:28:27 GMT"
+          "Value": "Fri, 06 Dec 2024 17:30:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -196,7 +286,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MtrzHF2RkxlOKoNJulVpYXtnj1t60aOXteLvVrQnZQ0="
+          "Value": "sha256-y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08="
         }
       ]
     },
@@ -211,7 +301,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "496"
+          "Value": "618"
         },
         {
           "Name": "Content-Type",
@@ -219,11 +309,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MtrzHF2RkxlOKoNJulVpYXtnj1t60aOXteLvVrQnZQ0=\""
+          "Value": "\"y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 23:28:27 GMT"
+          "Value": "Fri, 06 Dec 2024 17:30:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -233,97 +323,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MtrzHF2RkxlOKoNJulVpYXtnj1t60aOXteLvVrQnZQ0="
-        }
-      ]
-    },
-    {
-      "Route": "Fetch.y0924zxxwg.bundle.scp.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fetch.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "496"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MtrzHF2RkxlOKoNJulVpYXtnj1t60aOXteLvVrQnZQ0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 23:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "y0924zxxwg"
-        },
-        {
-          "Name": "label",
-          "Value": "Fetch.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MtrzHF2RkxlOKoNJulVpYXtnj1t60aOXteLvVrQnZQ0="
-        }
-      ]
-    },
-    {
-      "Route": "Fetch.y0924zxxwg.styles.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Fetch.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "496"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"MtrzHF2RkxlOKoNJulVpYXtnj1t60aOXteLvVrQnZQ0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 04 Dec 2024 23:28:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "y0924zxxwg"
-        },
-        {
-          "Name": "label",
-          "Value": "Fetch.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-MtrzHF2RkxlOKoNJulVpYXtnj1t60aOXteLvVrQnZQ0="
+          "Value": "sha256-y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08="
         }
       ]
     }

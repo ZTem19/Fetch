@@ -31,3 +31,4 @@ C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\refint\Fetch.dll
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\Fetch.pdb
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\Fetch.genruntimeconfig.cache
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\ref\Fetch.dll
+C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\scopedcss\Components\Layout\NavBar.razor.rz.scp.css

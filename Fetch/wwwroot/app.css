@@ -28,10 +28,9 @@ h1:focus {
     border-color: #929292;
 }
 
-p {
-    font-family: 'Times New Roman';
-}
 
-h1, h2, h3 {
-    font-family: Arial;
+/* Make webpage fill entire screen */
+body, html {
+    margin: 0;
+    padding: 0;
 }

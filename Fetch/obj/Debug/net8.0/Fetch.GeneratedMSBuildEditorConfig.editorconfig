@@ -24,10 +24,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zande/CSCI_213_Project/Fetch/Components/Layout/NavBar.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2QmFyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -47,3 +43,7 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/zande/CSCI_213_Project/Fetch/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-cv79syxlti
+
+[C:/Users/zande/CSCI_213_Project/Fetch/Components/Layout/NavBar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2QmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-9d7aopz163
