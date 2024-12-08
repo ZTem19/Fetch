@@ -1,19 +1,18 @@
-﻿
-
-.navbar {
-    margin: 0;
+﻿.navbar {
+    width: 100vw;
+    height: fit-content;
+    padding: 1vh 0 1vh 0 ;
     background-color: lightgray;
-    text-decoration: none;
-    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-item {
+    width: fit-content;
+    height:fit-content;
+    flex-direction:row;
     font-size: 2em;
 }
 
 
-.homelink {
-    color: black;
-    font-size: 2em;
-}
-
-.nav-link, .nav-link:active {
-    color: red;
-}
