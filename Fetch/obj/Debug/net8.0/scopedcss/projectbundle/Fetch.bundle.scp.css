@@ -19,11 +19,21 @@
     }
 /* _content/Fetch/Components/Layout/NavBar.razor.rz.scp.css */
 
-*[b-9d7aopz163] {
+
+.navbar[b-9d7aopz163] {
     margin: 0;
+    background-color: lightgray;
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
 }
 
-.navbar[b-9d7aopz163]{
-    margin: 0;
-    background-color: white;
+
+.homelink[b-9d7aopz163] {
+    color: black;
+    font-size: 2em;
+}
+
+.nav-link[b-9d7aopz163], .nav-link:active[b-9d7aopz163] {
+    color: red;
 }

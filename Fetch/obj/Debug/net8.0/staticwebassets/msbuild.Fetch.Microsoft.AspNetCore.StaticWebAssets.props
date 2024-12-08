@@ -12,29 +12,29 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>twma7rzs1v</Fingerprint>
-      <Integrity>fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs=</Integrity>
+      <Fingerprint>faau8iikbq</Fingerprint>
+      <Integrity>acBuQDz7f/a7ZNpdqc7q76N7XFubRduhALkAYj+Si9Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fetch.1l4cup4h9i.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fetch.4rj6nxs6b1.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>Fetch</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Fetch</BasePath>
-      <RelativePath>Fetch.1l4cup4h9i.bundle.scp.css</RelativePath>
+      <RelativePath>Fetch.4rj6nxs6b1.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>1l4cup4h9i</Fingerprint>
-      <Integrity>y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=</Integrity>
+      <Fingerprint>4rj6nxs6b1</Fingerprint>
+      <Integrity>gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fetch.1l4cup4h9i.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Fetch.4rj6nxs6b1.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

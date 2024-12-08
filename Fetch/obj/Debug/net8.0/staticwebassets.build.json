@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mcE41HrxWaO9nS+Nu3zQEG1geLuF/iumZDPTcFIjDIg=",
+  "Hash": "qRxtJYMOyJ3C0V/lFOFaFmqiddLDgtyAb89Ez4hJK50=",
   "Source": "Fetch",
   "BasePath": "_content/Fetch",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "1l4cup4h9i",
-      "Integrity": "y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=",
+      "Fingerprint": "4rj6nxs6b1",
+      "Integrity": "gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Fetch.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "1l4cup4h9i",
-      "Integrity": "y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=",
+      "Fingerprint": "4rj6nxs6b1",
+      "Integrity": "gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fetch.bundle.scp.css"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "twma7rzs1v",
-      "Integrity": "fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs=",
+      "Fingerprint": "faau8iikbq",
+      "Integrity": "acBuQDz7f/a7ZNpdqc7q76N7XFubRduhALkAYj+Si9Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -92,7 +92,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2301"
+          "Value": "2245"
         },
         {
           "Name": "Content-Type",
@@ -100,11 +100,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs=\""
+          "Value": "\"acBuQDz7f/a7ZNpdqc7q76N7XFubRduhALkAYj+Si9Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 17:37:17 GMT"
+          "Value": "Fri, 06 Dec 2024 22:52:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -114,12 +114,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs="
+          "Value": "sha256-acBuQDz7f/a7ZNpdqc7q76N7XFubRduhALkAYj+Si9Y="
         }
       ]
     },
     {
-      "Route": "app.twma7rzs1v.css",
+      "Route": "app.faau8iikbq.css",
       "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -129,7 +129,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2301"
+          "Value": "2245"
         },
         {
           "Name": "Content-Type",
@@ -137,11 +137,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs=\""
+          "Value": "\"acBuQDz7f/a7ZNpdqc7q76N7XFubRduhALkAYj+Si9Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 17:37:17 GMT"
+          "Value": "Fri, 06 Dec 2024 22:52:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -151,7 +151,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "twma7rzs1v"
+          "Value": "faau8iikbq"
         },
         {
           "Name": "label",
@@ -159,12 +159,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fXX1y2ZSUrchjlQM4ZFnppF/oTe2oDMDPtxGQToA0Hs="
+          "Value": "sha256-acBuQDz7f/a7ZNpdqc7q76N7XFubRduhALkAYj+Si9Y="
         }
       ]
     },
     {
-      "Route": "Fetch.1l4cup4h9i.bundle.scp.css",
+      "Route": "Fetch.4rj6nxs6b1.bundle.scp.css",
       "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fetch.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -174,7 +174,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "618"
+          "Value": "921"
         },
         {
           "Name": "Content-Type",
@@ -182,11 +182,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=\""
+          "Value": "\"gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 17:30:34 GMT"
+          "Value": "Fri, 06 Dec 2024 23:41:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -196,7 +196,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1l4cup4h9i"
+          "Value": "4rj6nxs6b1"
         },
         {
           "Name": "label",
@@ -204,12 +204,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08="
+          "Value": "sha256-gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk="
         }
       ]
     },
     {
-      "Route": "Fetch.1l4cup4h9i.styles.css",
+      "Route": "Fetch.4rj6nxs6b1.styles.css",
       "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Fetch.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -219,7 +219,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "618"
+          "Value": "921"
         },
         {
           "Name": "Content-Type",
@@ -227,11 +227,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=\""
+          "Value": "\"gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 17:30:34 GMT"
+          "Value": "Fri, 06 Dec 2024 23:41:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -241,7 +241,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1l4cup4h9i"
+          "Value": "4rj6nxs6b1"
         },
         {
           "Name": "label",
@@ -249,7 +249,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08="
+          "Value": "sha256-gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk="
         }
       ]
     },
@@ -264,7 +264,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "618"
+          "Value": "921"
         },
         {
           "Name": "Content-Type",
@@ -272,11 +272,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=\""
+          "Value": "\"gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 17:30:34 GMT"
+          "Value": "Fri, 06 Dec 2024 23:41:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -286,7 +286,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08="
+          "Value": "sha256-gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk="
         }
       ]
     },
@@ -301,7 +301,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "618"
+          "Value": "921"
         },
         {
           "Name": "Content-Type",
@@ -309,11 +309,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08=\""
+          "Value": "\"gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 17:30:34 GMT"
+          "Value": "Fri, 06 Dec 2024 23:41:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -323,7 +323,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-y/u8kHX9nRXBHfyshIeiXSXuPf4C4sFB7S5y+1vUt08="
+          "Value": "sha256-gIRrMC+lVqt0vBT3b4Tgyxr4xmFUo22dbdYMh13LCXk="
         }
       ]
     }
