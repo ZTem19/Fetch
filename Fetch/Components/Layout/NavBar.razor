@@ -1,27 +1,42 @@
 ﻿<!-- This component is the nav bar at the top of the any page. -->
 
 <div class="navbar">
+
 	<div class="navbar-item" style="flex-grow: 3; margin: 0 0 0 1em">
-		<span class="titleLink">
-			<NavLink class="nav-link" href="/"
-			style="text-decoration-color: none; color: black; text-decoration-line:none; font-size: 2em;" >
+		<NavLink class="nav-link" href="/">
+			<span> 
+				<img class="pawico" src="../../Assets/pawclipartdark.png" alt="Paw Picture" />
+			</span>
+			<span class="titlelink">
 				Fetch
-			</NavLink>
-		</span>
+			</span>
+		</NavLink>
 	</div>
 
 	<div class="navbar-item">
-		<NavLink class="nav-link" href="/Error" 
-		style="font-size:1.2em; text-decoration: none; color: inherit;"
-		>
-			Login
+		<NavLink class="nav-link" href="@getAccountPath()" >
+			<span class="username">@getUserName()</span>
 		</NavLink>
 	</div>
 
 	<div class="navbar-item">
 		<NavLink class="nav-link" href="/Error">
-			<img src="../../Assets/blankaccount.png" alt="Account Picture" style="width: 1.5em; height: 1.5em; margin: .2em 2em 0em 1em" />
+			<img class="accountico" src="../../Assets/blankaccount.png" alt="Account Picture"/>
 		</NavLink>
 	</div>
+
 </div>
 
+@code {
+
+	//Get Current users name or return "login" if no user is logged in
+	public string getUserName()
+	{
+		return "Login";
+	}
+
+	public string getAccountPath()
+	{
+		return "/Example";
+	}
+}

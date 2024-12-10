@@ -33,9 +33,17 @@ h1:focus {
 body, html {
     margin: 0; 
     padding: 0;
+    overflow-y: auto;
+    height: 100%;
+    scroll-behavior: smooth;
 }
 
 a {
     text-decoration: none;
     color: none;
+}
+
+header.topbar {
+    position: sticky;
+    top: 0;
 }

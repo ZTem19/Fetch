@@ -1,5 +1,9 @@
 wwwroot\app.css
 wwwroot\Assets\blankaccount.png
+wwwroot\Assets\darkPaw.ico
+wwwroot\Assets\lightPaw.ico
+wwwroot\Assets\pawclipartdark.png
+wwwroot\Assets\pawclipartlight.png
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css

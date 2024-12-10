@@ -1,5 +1,6 @@
 C:\Users\zande\CSCI_213_Project\Fetch\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\zande\CSCI_213_Project\Fetch\bin\Debug\net8.0\appsettings.json
+C:\Users\zande\CSCI_213_Project\Fetch\bin\Debug\net8.0\libman.json
 C:\Users\zande\CSCI_213_Project\Fetch\bin\Debug\net8.0\Fetch.staticwebassets.runtime.json
 C:\Users\zande\CSCI_213_Project\Fetch\bin\Debug\net8.0\Fetch.staticwebassets.endpoints.json
 C:\Users\zande\CSCI_213_Project\Fetch\bin\Debug\net8.0\Fetch.exe
@@ -14,6 +15,7 @@ C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\Fetch.csproj.CoreCompileI
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\Fetch.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\Fetch.sourcelink.json
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\scopedcss\Components\Layout\NavBar.razor.rz.scp.css
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\scopedcss\bundle\Fetch.styles.css
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\scopedcss\projectbundle\Fetch.bundle.scp.css
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\staticwebassets.build.json
@@ -31,5 +33,3 @@ C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\refint\Fetch.dll
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\Fetch.pdb
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\Fetch.genruntimeconfig.cache
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\ref\Fetch.dll
-C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\scopedcss\Components\Layout\NavBar.razor.rz.scp.css
-C:\Users\zande\CSCI_213_Project\Fetch\bin\Debug\net8.0\libman.json

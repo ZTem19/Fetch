@@ -2,11 +2,27 @@
   "Files": [
     {
       "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Fetch.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Fetch.t1ups8fs0n.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Fetch.jjpn0ndm55.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\blankaccount.png",
       "PackagePath": "staticwebassets\\Assets\\blankaccount.png"
+    },
+    {
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\darkPaw.ico",
+      "PackagePath": "staticwebassets\\Assets\\darkPaw.ico"
+    },
+    {
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\lightPaw.ico",
+      "PackagePath": "staticwebassets\\Assets\\lightPaw.ico"
+    },
+    {
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\pawclipartdark.png",
+      "PackagePath": "staticwebassets\\Assets\\pawclipartdark.png"
+    },
+    {
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\pawclipartlight.png",
+      "PackagePath": "staticwebassets\\Assets\\pawclipartlight.png"
     },
     {
       "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
