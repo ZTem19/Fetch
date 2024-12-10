@@ -1,0 +1,43 @@
+.navbar[b-9d7aopz163] {
+    width: 100vw;
+    height: fit-content;
+    padding: 2vh 0 2vh 0 ;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1em;
+    position: sticky;
+    top: 0;
+}
+  
+.navbar-item[b-9d7aopz163] {
+    width: fit-content;
+    height:fit-content;
+    flex-direction:row;
+}
+
+.pawico[b-9d7aopz163] {
+    height: 1.7em;
+    margin: 0;
+    padding: 0;
+    border-radius: 8px;
+    vertical-align:text-bottom;
+}
+
+.titlelink[b-9d7aopz163] {
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+}
+
+.username[b-9d7aopz163] {
+    color: black;
+    font-size: 1.5em;
+}
+
+.accountico[b-9d7aopz163] {
+    margin: .2em 3em 0em 1em;
+    width: 2em;
+    height: 2em;
+}

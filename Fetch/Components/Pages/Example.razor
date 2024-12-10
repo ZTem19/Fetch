@@ -1,0 +1,31 @@
+﻿@page "/Example"
+@using System.Text
+
+<h3>Example</h3>
+
+<p>
+	Lorem ipsum odor amet, consectetuer adipiscing elit. Viverra sagittis torquent porttitor metus tristique. Praesent litora purus odio consequat metus mollis euismod. Donec id faucibus mauris fames; curae imperdiet justo. Varius luctus sollicitudin vehicula mattis eleifend sollicitudin mi molestie. Lectus sed mus, vel interdum nisl facilisi finibus condimentum. Consequat sit per mauris fermentum aliquet.
+
+</p>
+<p>
+	Duis rhoncus dolor lectus finibus cras arcu dictumst eu egestas? Non mus inceptos fusce quam sem. Lacus sem quam sit lacus; proin nec conubia. Varius ligula egestas sollicitudin curabitur tristique morbi maximus senectus. Litora interdum dignissim lacus facilisi blandit integer torquent varius. Acras pulvinar leo posuere commodo. Euismod donec torquent elementum conubia eu fringilla. Inceptos nisl ornare faucibus placerat et urna montes nulla ultricies. Euismod dignissim integer quis consequat vulputate turpis.
+</p>
+<p>
+	Taciti adipiscing felis natoque justo interdum, sapien augue. Tellus semper nullam lobortis sit aenean. Interdum curae dictum vulputate sodales lobortis commodo imperdiet varius. Justo litora commodo dui tempor; nisi dui rutrum. Porttitor eros fringilla himenaeos felis tristique turpis lobortis. Eu habitant hendrerit sollicitudin gravida imperdiet purus mus tempor in. Fringilla aliquet montes facilisis dignissim nascetur volutpat. Porttitor sem vestibulum senectus potenti; id erat. Quisque imperdiet sociosqu nisl laoreet lacus erat. Nascetur accumsan maecenas adipiscing orci scelerisque proin gravida.
+</p>
+<pre>@manyLines()</pre>
+
+@code {
+
+	public string manyLines()
+	{
+		StringBuilder lines = new StringBuilder();
+		for (int i = 0; i < 100; i++)
+		{
+			lines.Append('a');
+			lines.Append('\n');
+		}
+		return lines.ToString();
+	}
+ 
+}
