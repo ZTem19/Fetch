@@ -1,11 +1,8 @@
 ﻿using Fetch.Components;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using Users;
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddDbContextFactory<FetchContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("FetchContext") ?? throw new InvalidOperationException("Connection string 'FetchContext' not found.")));
 
 builder.Services.AddQuickGridEntityFrameworkAdapter();
 

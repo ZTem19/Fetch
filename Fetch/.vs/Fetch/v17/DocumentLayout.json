@@ -3,56 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\pages\\userpages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:components\\pages\\userpages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\data\\fetchcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:data\\fetchcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\migrations\\20241211020138_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:migrations\\20241211020138_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\migrations\\fetchcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:migrations\\fetchcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\obj\\debug\\net8.0\\fetch.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:obj\\debug\\net8.0\\fetch.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|c:\\users\\zande\\csci_213_project\\fetch\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5902137D-B321-4BF1-8457-C5D5F7351422}|Fetch.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,171 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FetchContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Migrations\\FetchContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\FetchContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Migrations\\FetchContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\FetchContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:10:43.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20241211020138_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Migrations\\20241211020138_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241211020138_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Migrations\\20241211020138_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20241211020138_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:11:26.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T00:33:23.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.razor",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\UserPages\\Create.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\UserPages\\Create.razor",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\UserPages\\Create.razor",
-              "RelativeToolTip": "Components\\Pages\\UserPages\\Create.razor",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T01:59:37.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-11T01:57:41.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FetchContext.cs",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Data\\FetchContext.cs",
-              "RelativeDocumentMoniker": "Data\\FetchContext.cs",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Data\\FetchContext.cs",
-              "RelativeToolTip": "Data\\FetchContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T02:02:57.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T01:28:40.417Z",
+              "WhenOpened": "2024-12-12T17:26:22.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T00:49:36.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.razor",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\Error.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\Error.razor",
-              "RelativeToolTip": "Components\\Pages\\Error.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T00:32:35.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserData.cs",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Models\\UserData.cs",
-              "RelativeDocumentMoniker": "Models\\UserData.cs",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Models\\UserData.cs",
-              "RelativeToolTip": "Models\\UserData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T00:29:36.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Fetch.GlobalUsings.g.cs",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\Fetch.GlobalUsings.g.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Fetch.GlobalUsings.g.cs",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\Fetch.GlobalUsings.g.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\Fetch.GlobalUsings.g.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T23:20:10.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T21:59:35.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
-              "RelativeDocumentMoniker": "wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
-              "RelativeToolTip": "wwwroot\\app.css",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-04T20:20:32.828Z",
+              "WhenOpened": "2024-12-12T17:20:08.159Z",
               "EditorCaption": ""
             }
           ]
