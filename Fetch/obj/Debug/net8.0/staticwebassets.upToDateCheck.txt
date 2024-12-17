@@ -4,6 +4,11 @@ wwwroot\Assets\darkPaw.ico
 wwwroot\Assets\lightPaw.ico
 wwwroot\Assets\pawclipartdark.png
 wwwroot\Assets\pawclipartlight.png
+wwwroot\Assets\stockImages\stockDog1.jpg
+wwwroot\Assets\stockImages\stockDog2.jpg
+wwwroot\Assets\stockImages\stockDog3.jpg
+wwwroot\Assets\stockImages\stockDog4.jpg
+wwwroot\Assets\stockImages\stockDog5.jpg
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 wwwroot\lib\bootstrap\dist\css\bootstrap.min.css

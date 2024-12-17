@@ -25,6 +25,26 @@
       "PackagePath": "staticwebassets\\Assets\\pawclipartlight.png"
     },
     {
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog1.jpg",
+      "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog2.jpg",
+      "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog3.jpg",
+      "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog4.jpg",
+      "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog5.jpg",
+      "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog5.jpg"
+    },
+    {
       "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },

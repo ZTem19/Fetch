@@ -1,0 +1,12 @@
+﻿@page "/Account"
+@using static Models.User;
+
+
+<h3>@getAccountName() Account</h3>
+
+@code {
+    [CascadingParameter(Name = "user")]
+    protected Models.User? CurrentUser { get; set; }
+
+    public string getAccountName() => (CurrentUser is not null) ? CurrentUser.FirstName : "No Active User!";
+}

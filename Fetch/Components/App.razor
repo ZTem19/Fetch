@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@inject ProtectedLocalStorage ProtectedLocalStorage;
+
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -13,10 +15,41 @@
 </head>
 
 <body>
-    <Routes />
-    <div class="main">
-        <script src="_framework/blazor.web.js"></script>
-    </div>
+    <CascadingValue Value="currentUser" Name="user">
+        <Routes />
+
+        <div class="main">
+            <script src="_framework/blazor.web.js"></script>
+        </div>
+    </CascadingValue>
 </body>
 
 </html>
+
+@code {
+    User? _currentUser { get; set; }
+
+    private void loadExampleUser()
+    {
+        _currentUser = new Models.User();
+        _currentUser.FirstName = "Zander";
+    }
+
+    private async Task saveUser()
+    {
+        await ProtectedLocalStorage.SetAsync("UserSession", new UserSession(_currentUser, DateTime.Now));
+    }
+
+    private async Task loadUser()
+    {
+        //todo
+        return;
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        loadExampleUser();
+        await loadUser();
+    }
+
+}

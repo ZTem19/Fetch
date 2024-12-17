@@ -28,15 +28,28 @@
 </div>
 
 @code {
+	[CascadingParameter(Name = "user")]
+	protected Models.User? currentUser { get; set; }
 
 	//Get Current users name or return "login" if no user is logged in
 	public string getUserName()
 	{
+		System.Diagnostics.Debug.WriteLine($"Current User is: {currentUser.FirstName}");
+		if(currentUser != null && currentUser.FirstName != null){
+			return currentUser.FirstName;
+		}
+		//Else
 		return "Login";
 	}
 
 	public string getAccountPath()
 	{
 		return "/Example";
+	}
+
+	protected override void OnInitialized()
+	{
+		base.OnInitialized();
+		getUserName();
 	}
 }
