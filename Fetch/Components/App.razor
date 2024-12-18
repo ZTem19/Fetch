@@ -1,55 +1,20 @@
-﻿@inject ProtectedLocalStorage ProtectedLocalStorage;
-
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <base href="/" />
-    <link rel="icon" href="Assets/darkPaw.ico"/>
+    <link rel="stylesheet" href="bootstrap/bootstrap.min.css" />
     <link rel="stylesheet" href="app.css" />
-    <link rel="stylesheet" href="Fetch.styles.css" />
-    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap-grid.min.css" />
+    <link rel="stylesheet" href="FetchApp.styles.css" />
+    <link rel="icon" type="image/png" href="~/Assets/darkPaw.ico" />
     <HeadOutlet />
 </head>
 
 <body>
-    <CascadingValue Value="currentUser" Name="user">
-        <Routes />
-
-        <div class="main">
-            <script src="_framework/blazor.web.js"></script>
-        </div>
-    </CascadingValue>
+    <Routes />
+    <script src="_framework/blazor.web.js"></script>
 </body>
 
 </html>
-
-@code {
-    User? _currentUser { get; set; }
-
-    private void loadExampleUser()
-    {
-        _currentUser = new Models.User();
-        _currentUser.FirstName = "Zander";
-    }
-
-    private async Task saveUser()
-    {
-        await ProtectedLocalStorage.SetAsync("UserSession", new UserSession(_currentUser, DateTime.Now));
-    }
-
-    private async Task loadUser()
-    {
-        //todo
-        return;
-    }
-
-    protected override async Task OnInitializedAsync()
-    {
-        loadExampleUser();
-        await loadUser();
-    }
-
-}

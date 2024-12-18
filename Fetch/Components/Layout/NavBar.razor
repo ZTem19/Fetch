@@ -29,16 +29,16 @@
 
 @code {
 	[CascadingParameter(Name = "user")]
-	protected Models.User? currentUser { get; set; }
+	protected Data.ApplicationUser? currentUser { get; set; }
 
 	//Get Current users name or return "login" if no user is logged in
 	public string getUserName()
 	{
-		System.Diagnostics.Debug.WriteLine($"Current User is: {currentUser.FirstName}");
-		if(currentUser != null && currentUser.FirstName != null){
-			return currentUser.FirstName;
-		}
-		//Else
+		// System.Diagnostics.Debug.WriteLine($"Current User is: {currentUser.FirstName}");
+		// if(currentUser != null && currentUser.FirstName != null){
+		// 	return currentUser.FirstName;
+		// }
+
 		return "Login";
 	}
 
@@ -47,9 +47,9 @@
 		return "/Example";
 	}
 
-	protected override void OnInitialized()
-	{
-		base.OnInitialized();
-		getUserName();
-	}
+	// protected override void OnInitialized()
+	// {
+	// 	base.OnInitialized();
+	// 	getUserName();
+	// }
 }

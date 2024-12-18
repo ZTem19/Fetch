@@ -1,4 +1,4 @@
-.navbar[b-9d7aopz163] {
+.navbar[b-jx6gdtvphr] {
     width: 100vw;
     height: fit-content;
     padding: 2vh 0 2vh 0 ;
@@ -11,13 +11,13 @@
     top: 0;
 }
   
-.navbar-item[b-9d7aopz163] {
+.navbar-item[b-jx6gdtvphr] {
     width: fit-content;
     height:fit-content;
     flex-direction:row;
 }
 
-.pawico[b-9d7aopz163] {
+.pawico[b-jx6gdtvphr] {
     height: 1.7em;
     margin: 0;
     padding: 0;
@@ -25,18 +25,20 @@
     vertical-align:text-bottom;
 }
 
-.titlelink[b-9d7aopz163] {
+.titlelink[b-jx6gdtvphr] {
     text-decoration: none;
+    text-decoration-line: none;
     color: black;
     font-size: 2em;
 }
 
-.username[b-9d7aopz163] {
+.username[b-jx6gdtvphr] {
     color: black;
     font-size: 1.5em;
+    text-decoration-line: none;
 }
 
-.accountico[b-9d7aopz163] {
+.accountico[b-jx6gdtvphr] {
     margin: .2em 3em 0em 1em;
     width: 2em;
     height: 2em;

@@ -1,0 +1,143 @@
+/* _content/FetchApp/Components/Layout/MainLayout.razor.rz.scp.css */
+.page[b-lqy5ypol0s] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-lqy5ypol0s] {
+    flex: 1;
+}
+
+.sidebar[b-lqy5ypol0s] {
+    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+}
+
+.top-row[b-lqy5ypol0s] {
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row[b-lqy5ypol0s]  a, .top-row[b-lqy5ypol0s]  .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row[b-lqy5ypol0s]  a:hover, .top-row[b-lqy5ypol0s]  .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row[b-lqy5ypol0s]  a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row[b-lqy5ypol0s] {
+        justify-content: space-between;
+    }
+
+    .top-row[b-lqy5ypol0s]  a, .top-row[b-lqy5ypol0s]  .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+    .page[b-lqy5ypol0s] {
+        flex-direction: row;
+    }
+
+    .sidebar[b-lqy5ypol0s] {
+        width: 250px;
+        height: 100vh;
+        position: sticky;
+        top: 0;
+    }
+
+    .top-row[b-lqy5ypol0s] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+    }
+
+    .top-row.auth[b-lqy5ypol0s]  a:first-child {
+        flex: 1;
+        text-align: right;
+        width: 0;
+    }
+
+    .top-row[b-lqy5ypol0s], article[b-lqy5ypol0s] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+
+#blazor-error-ui[b-lqy5ypol0s] {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss[b-lqy5ypol0s] {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+/* _content/FetchApp/Components/Layout/NavBar.razor.rz.scp.css */
+.navbar[b-jx6gdtvphr] {
+    width: 100vw;
+    height: fit-content;
+    padding: 2vh 0 2vh 0 ;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1em;
+    position: sticky;
+    top: 0;
+}
+  
+.navbar-item[b-jx6gdtvphr] {
+    width: fit-content;
+    height:fit-content;
+    flex-direction:row;
+}
+
+.pawico[b-jx6gdtvphr] {
+    height: 1.7em;
+    margin: 0;
+    padding: 0;
+    border-radius: 8px;
+    vertical-align:text-bottom;
+}
+
+.titlelink[b-jx6gdtvphr] {
+    text-decoration: none;
+    text-decoration-line: none;
+    color: black;
+    font-size: 2em;
+}
+
+.username[b-jx6gdtvphr] {
+    color: black;
+    font-size: 1.5em;
+    text-decoration-line: none;
+}
+
+.accountico[b-jx6gdtvphr] {
+    margin: .2em 3em 0em 1em;
+    width: 2em;
+    height: 2em;
+}

@@ -27,6 +27,7 @@
 
 .titlelink {
     text-decoration: none;
+    text-decoration-line: none;
     color: black;
     font-size: 2em;
 }
@@ -34,6 +35,7 @@
 .username {
     color: black;
     font-size: 1.5em;
+    text-decoration-line: none;
 }
 
 .accountico {
