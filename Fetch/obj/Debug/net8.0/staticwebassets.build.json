@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "spmJW4lfmbs+rPRyKxdmm3aS7IcRV0N5M95U0gb0+xQ=",
+  "Hash": "w4SgK2N0RjecPPWJQ9Xh9f4Hsu7UWRv43mNAUDnP+D4=",
   "Source": "FetchApp",
   "BasePath": "_content/FetchApp",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "FetchApp\\wwwroot",
       "Source": "FetchApp",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css",
       "SourceId": "FetchApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "FetchApp#[.{fingerprint}]?.styles.css",
+      "RelativePath": "FetchApp.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -31,19 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "zcrfw5ncvs",
-      "Integrity": "vQN3t9TLcQnAZ9L/sE3AvknOgqBCkmy0tQ8nNV2+nPM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
       "SourceId": "FetchApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "FetchApp#[.{fingerprint}]!.bundle.scp.css",
+      "RelativePath": "FetchApp.bundle.scp.css",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Primary",
@@ -52,1619 +50,275 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "zcrfw5ncvs",
-      "Integrity": "vQN3t9TLcQnAZ9L/sE3AvknOgqBCkmy0tQ8nNV2+nPM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\app.css",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "app#[.{fingerprint}]?.css",
+      "RelativePath": "app.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "t78kr9g6vp",
-      "Integrity": "Z1r0QHSHOq6q2RbqZOY10ejFAJW+l9RzALKAMgniVJk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\blankaccount.png",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\blankaccount.png",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "Assets/blankaccount#[.{fingerprint}]?.png",
+      "RelativePath": "Assets/blankaccount.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "657ojqrdid",
-      "Integrity": "1jrdH9Drvgjn3fqwa/HE1YnDLiUo5ri6cM1Tp2Klyho=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\blankaccount.png"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\darkPaw.ico",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\darkPaw.ico",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "Assets/darkPaw#[.{fingerprint}]?.ico",
+      "RelativePath": "Assets/darkPaw.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c9icw2qzi2",
-      "Integrity": "cK82ZPY+4ik6ykGBtnUuBS6MzGkbaJJOf7rhyA0SmK0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\darkPaw.ico"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\lightPaw.ico",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\lightPaw.ico",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "Assets/lightPaw#[.{fingerprint}]?.ico",
+      "RelativePath": "Assets/lightPaw.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i08gb4qc5n",
-      "Integrity": "kqdTSJ3JFawx7hPHHKc0pdmiLnR/ptxYmW6apdOct3A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\lightPaw.ico"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\pawclipartdark.png",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\pawclipartdark.png",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "Assets/pawclipartdark#[.{fingerprint}]?.png",
+      "RelativePath": "Assets/pawclipartdark.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "87zeougs6f",
-      "Integrity": "tPnyVc9D70x5ybeIilfiSZqBRzmD2k4OGqBdHEqIQa4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\pawclipartdark.png"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\pawclipartlight.png",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\pawclipartlight.png",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "Assets/pawclipartlight#[.{fingerprint}]?.png",
+      "RelativePath": "Assets/pawclipartlight.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "aufr21cdqt",
-      "Integrity": "DpHyzThpGyvtErRYT/rzeXUQWtQvDteLEULQQejiT44=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\pawclipartlight.png"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog1.jpg",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog1.jpg",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "Assets/stockImages/stockDog1#[.{fingerprint}]?.jpg",
+      "RelativePath": "Assets/stockImages/stockDog1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0d29yngdka",
-      "Integrity": "zC3nU2C+swvS/Fne53ULl/Hl6qwklBu2ZXU94ib4kJk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\stockImages\\stockDog1.jpg"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog2.jpg",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog2.jpg",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "Assets/stockImages/stockDog2#[.{fingerprint}]?.jpg",
+      "RelativePath": "Assets/stockImages/stockDog2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mybv1oqrmk",
-      "Integrity": "slASXdUk8YGG6e1ycAIYD2uXxecjt1JzUfE44p9mk8c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\stockImages\\stockDog2.jpg"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog3.jpg",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog3.jpg",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "Assets/stockImages/stockDog3#[.{fingerprint}]?.jpg",
+      "RelativePath": "Assets/stockImages/stockDog3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ly6p347zsm",
-      "Integrity": "fZKpi/g4jh9C59RdzjIRURhKQtMJ3p/gTOm10L93GrA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\stockImages\\stockDog3.jpg"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog4.jpg",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog4.jpg",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "Assets/stockImages/stockDog4#[.{fingerprint}]?.jpg",
+      "RelativePath": "Assets/stockImages/stockDog4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ywonjenllr",
-      "Integrity": "Hoe8ioQ9mni5nFidgCQey3QyxCckhHiIpMUGg4MqGeo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\stockImages\\stockDog4.jpg"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog5.jpg",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog5.jpg",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "Assets/stockImages/stockDog5#[.{fingerprint}]?.jpg",
+      "RelativePath": "Assets/stockImages/stockDog5.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tujzv6hzxe",
-      "Integrity": "RXav/svJvIdLlMqQPioOvPtu3a63wVPATNfpwt/pV3A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\stockImages\\stockDog5.jpg"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "bpk8xqwxhs",
-      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8inm30yfxf",
-      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\favicon.png",
       "SourceId": "FetchApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
       "BasePath": "_content/FetchApp",
-      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "RelativePath": "favicon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
+      "AssetMergeBehavior": "PreferTarget",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ifv42okdf2",
-      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
-    }
-  ],
-  "Endpoints": [
-    {
-      "Route": "app.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2534"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z1r0QHSHOq6q2RbqZOY10ejFAJW+l9RzALKAMgniVJk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:54:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z1r0QHSHOq6q2RbqZOY10ejFAJW+l9RzALKAMgniVJk="
-        }
-      ]
-    },
-    {
-      "Route": "app.t78kr9g6vp.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2534"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Z1r0QHSHOq6q2RbqZOY10ejFAJW+l9RzALKAMgniVJk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:54:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t78kr9g6vp"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Z1r0QHSHOq6q2RbqZOY10ejFAJW+l9RzALKAMgniVJk="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/blankaccount.657ojqrdid.png",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\blankaccount.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "131408"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1jrdH9Drvgjn3fqwa/HE1YnDLiUo5ri6cM1Tp2Klyho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "657ojqrdid"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/blankaccount.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-1jrdH9Drvgjn3fqwa/HE1YnDLiUo5ri6cM1Tp2Klyho="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/blankaccount.png",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\blankaccount.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "131408"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1jrdH9Drvgjn3fqwa/HE1YnDLiUo5ri6cM1Tp2Klyho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1jrdH9Drvgjn3fqwa/HE1YnDLiUo5ri6cM1Tp2Klyho="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/darkPaw.c9icw2qzi2.ico",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\darkPaw.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15406"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cK82ZPY+4ik6ykGBtnUuBS6MzGkbaJJOf7rhyA0SmK0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c9icw2qzi2"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/darkPaw.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cK82ZPY+4ik6ykGBtnUuBS6MzGkbaJJOf7rhyA0SmK0="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/darkPaw.ico",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\darkPaw.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15406"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cK82ZPY+4ik6ykGBtnUuBS6MzGkbaJJOf7rhyA0SmK0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cK82ZPY+4ik6ykGBtnUuBS6MzGkbaJJOf7rhyA0SmK0="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/lightPaw.i08gb4qc5n.ico",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\lightPaw.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15406"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kqdTSJ3JFawx7hPHHKc0pdmiLnR/ptxYmW6apdOct3A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "i08gb4qc5n"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/lightPaw.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kqdTSJ3JFawx7hPHHKc0pdmiLnR/ptxYmW6apdOct3A="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/lightPaw.ico",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\lightPaw.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15406"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kqdTSJ3JFawx7hPHHKc0pdmiLnR/ptxYmW6apdOct3A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kqdTSJ3JFawx7hPHHKc0pdmiLnR/ptxYmW6apdOct3A="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/pawclipartdark.87zeougs6f.png",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\pawclipartdark.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "40044"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tPnyVc9D70x5ybeIilfiSZqBRzmD2k4OGqBdHEqIQa4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "87zeougs6f"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/pawclipartdark.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tPnyVc9D70x5ybeIilfiSZqBRzmD2k4OGqBdHEqIQa4="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/pawclipartdark.png",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\pawclipartdark.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "40044"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tPnyVc9D70x5ybeIilfiSZqBRzmD2k4OGqBdHEqIQa4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-tPnyVc9D70x5ybeIilfiSZqBRzmD2k4OGqBdHEqIQa4="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/pawclipartlight.aufr21cdqt.png",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\pawclipartlight.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "40892"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DpHyzThpGyvtErRYT/rzeXUQWtQvDteLEULQQejiT44=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "aufr21cdqt"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/pawclipartlight.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-DpHyzThpGyvtErRYT/rzeXUQWtQvDteLEULQQejiT44="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/pawclipartlight.png",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\pawclipartlight.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "40892"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DpHyzThpGyvtErRYT/rzeXUQWtQvDteLEULQQejiT44=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DpHyzThpGyvtErRYT/rzeXUQWtQvDteLEULQQejiT44="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/stockImages/stockDog1.0d29yngdka.jpg",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "62619"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zC3nU2C+swvS/Fne53ULl/Hl6qwklBu2ZXU94ib4kJk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 18:08:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "0d29yngdka"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/stockImages/stockDog1.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zC3nU2C+swvS/Fne53ULl/Hl6qwklBu2ZXU94ib4kJk="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/stockImages/stockDog1.jpg",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog1.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "62619"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zC3nU2C+swvS/Fne53ULl/Hl6qwklBu2ZXU94ib4kJk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 18:08:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zC3nU2C+swvS/Fne53ULl/Hl6qwklBu2ZXU94ib4kJk="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/stockImages/stockDog2.jpg",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "154100"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"slASXdUk8YGG6e1ycAIYD2uXxecjt1JzUfE44p9mk8c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 18:08:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-slASXdUk8YGG6e1ycAIYD2uXxecjt1JzUfE44p9mk8c="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/stockImages/stockDog2.mybv1oqrmk.jpg",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "154100"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"slASXdUk8YGG6e1ycAIYD2uXxecjt1JzUfE44p9mk8c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 18:08:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mybv1oqrmk"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/stockImages/stockDog2.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-slASXdUk8YGG6e1ycAIYD2uXxecjt1JzUfE44p9mk8c="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/stockImages/stockDog3.jpg",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "189896"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fZKpi/g4jh9C59RdzjIRURhKQtMJ3p/gTOm10L93GrA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 18:06:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fZKpi/g4jh9C59RdzjIRURhKQtMJ3p/gTOm10L93GrA="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/stockImages/stockDog3.ly6p347zsm.jpg",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog3.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "189896"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fZKpi/g4jh9C59RdzjIRURhKQtMJ3p/gTOm10L93GrA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 18:06:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ly6p347zsm"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/stockImages/stockDog3.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fZKpi/g4jh9C59RdzjIRURhKQtMJ3p/gTOm10L93GrA="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/stockImages/stockDog4.jpg",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog4.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "101182"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Hoe8ioQ9mni5nFidgCQey3QyxCckhHiIpMUGg4MqGeo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 17:57:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Hoe8ioQ9mni5nFidgCQey3QyxCckhHiIpMUGg4MqGeo="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/stockImages/stockDog4.ywonjenllr.jpg",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog4.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "101182"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Hoe8ioQ9mni5nFidgCQey3QyxCckhHiIpMUGg4MqGeo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 17:57:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ywonjenllr"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/stockImages/stockDog4.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Hoe8ioQ9mni5nFidgCQey3QyxCckhHiIpMUGg4MqGeo="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/stockImages/stockDog5.jpg",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog5.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "272617"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RXav/svJvIdLlMqQPioOvPtu3a63wVPATNfpwt/pV3A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 17:54:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RXav/svJvIdLlMqQPioOvPtu3a63wVPATNfpwt/pV3A="
-        }
-      ]
-    },
-    {
-      "Route": "Assets/stockImages/stockDog5.tujzv6hzxe.jpg",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog5.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "272617"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RXav/svJvIdLlMqQPioOvPtu3a63wVPATNfpwt/pV3A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 17 Dec 2024 17:54:06 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tujzv6hzxe"
-        },
-        {
-          "Name": "label",
-          "Value": "Assets/stockImages/stockDog5.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RXav/svJvIdLlMqQPioOvPtu3a63wVPATNfpwt/pV3A="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bpk8xqwxhs"
-        },
-        {
-          "Name": "label",
-          "Value": "bootstrap/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "162720"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "8inm30yfxf"
-        },
-        {
-          "Name": "label",
-          "Value": "bootstrap/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "449111"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\favicon.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1148"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ifv42okdf2"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\favicon.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1148"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
-        }
-      ]
-    },
-    {
-      "Route": "FetchApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3112"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vQN3t9TLcQnAZ9L/sE3AvknOgqBCkmy0tQ8nNV2+nPM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:33:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vQN3t9TLcQnAZ9L/sE3AvknOgqBCkmy0tQ8nNV2+nPM="
-        }
-      ]
-    },
-    {
-      "Route": "FetchApp.styles.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3112"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vQN3t9TLcQnAZ9L/sE3AvknOgqBCkmy0tQ8nNV2+nPM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:33:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vQN3t9TLcQnAZ9L/sE3AvknOgqBCkmy0tQ8nNV2+nPM="
-        }
-      ]
-    },
-    {
-      "Route": "FetchApp.zcrfw5ncvs.bundle.scp.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3112"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vQN3t9TLcQnAZ9L/sE3AvknOgqBCkmy0tQ8nNV2+nPM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:33:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zcrfw5ncvs"
-        },
-        {
-          "Name": "label",
-          "Value": "FetchApp.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vQN3t9TLcQnAZ9L/sE3AvknOgqBCkmy0tQ8nNV2+nPM="
-        }
-      ]
-    },
-    {
-      "Route": "FetchApp.zcrfw5ncvs.styles.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3112"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vQN3t9TLcQnAZ9L/sE3AvknOgqBCkmy0tQ8nNV2+nPM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 00:33:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zcrfw5ncvs"
-        },
-        {
-          "Name": "label",
-          "Value": "FetchApp.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vQN3t9TLcQnAZ9L/sE3AvknOgqBCkmy0tQ8nNV2+nPM="
-        }
-      ]
     }
   ]
 }

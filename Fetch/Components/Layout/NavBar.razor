@@ -13,11 +13,16 @@
 		</NavLink>
 	</div>
 
+
+	@*
+
 	<div class="navbar-item">
 		<NavLink class="nav-link" href="@getAccountPath()" >
 			<span class="username">@getUserName()</span>
 		</NavLink>
 	</div>
+	*@
+
 
 	<div class="navbar-item">
 		<NavLink class="nav-link" href="/Error">
@@ -25,11 +30,81 @@
 		</NavLink>
 	</div>
 
+
+	<div class="navbar-item">
+        <NavLink class="nav-link" href="/Dogs">
+            <img class="accountico" src="../../Assets/blankaccount.png" alt="Available Dogs"/>
+        </NavLink>
+	</div>
+
+   
+	<div class="navbar-item">
+      <NavLink class="nav-link" href="/Profile">
+           <img class="accountico" src="../../Assets/blankaccount.png" alt="View Your Profile"/>
+      </NavLink>
+	</div>
+
+	
+	 <AuthorizeView>
+            <Authorized>
+                <div class="navbar-item px-3">
+                    <NavLink class="nav-link" href="Account/Manage">
+                        <span class="bi bi-person-fill-nav-menu" aria-hidden="true"></span> @context.User.Identity?.Name
+                    </NavLink>
+                </div>
+                <div class="navbar-item px-3">
+                    <form action="Account/Logout" method="post">
+                        <AntiforgeryToken />
+                        <input type="hidden" name="ReturnUrl" value="@currentUrl" />
+                        <button type="submit" class="nav-link">
+                            <span class="bi bi-arrow-bar-left-nav-menu" aria-hidden="true"></span> Logout
+                        </button>
+                    </form>
+                </div>
+            </Authorized>
+
+            <NotAuthorized>
+                <div class="navbar-item px-3">
+                    <NavLink class="nav-link" href="Account/Register">
+                        <span class="bi bi-person-nav-menu" aria-hidden="true"></span> Register
+                    </NavLink>
+                </div>
+                <div class="navbar-item px-3">
+                    <NavLink class="nav-link" href="Account/Login">
+                        <span class="bi bi-person-badge-nav-menu" aria-hidden="true"></span> Login
+                    </NavLink>
+                </div>
+            </NotAuthorized>
+	</AuthorizeView>
+
+
+
 </div>
+
+	
 
 @code {
 	[CascadingParameter(Name = "user")]
 	protected Data.ApplicationUser? currentUser { get; set; }
+
+	[Inject]
+	NavigationManager NavigationManager { get; set; } = default;
+
+	private string? currentUrl;
+
+	protected override void OnInitialized()
+	{
+		currentUrl = NavigationManager.ToBaseRelativePath(NavigationManager.Uri);
+		NavigationManager.LocationChanged += OnLocationChanged;
+	}
+
+	private void OnLocationChanged(object? sender, LocationChangedEventArgs e) 
+	{ 
+		currentUrl = NavigationManager.ToBaseRelativePath(e.Location); 
+		StateHasChanged(); 
+	}
+
+
 
 	//Get Current users name or return "login" if no user is logged in
 	public string getUserName()
@@ -39,12 +114,17 @@
 		// 	return currentUser.FirstName;
 		// }
 
-		return "Login";
+		return currentUser?.UserName ?? "Login";
 	}
 
 	public string getAccountPath()
 	{
-		return "/Example";
+		return currentUser != null ? "Account/Manage" : "Account/Login";
+	}
+
+	public void Dispose() 
+	{ 
+		NavigationManager.LocationChanged -= OnLocationChanged; 
 	}
 
 	// protected override void OnInitialized()
