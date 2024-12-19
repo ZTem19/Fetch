@@ -53,8 +53,44 @@
       "PackagePath": "staticwebassets\\Assets\\blankaccount.png"
     },
     {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\contact_transparent.png",
+      "PackagePath": "staticwebassets\\Assets\\contact_transparent.png"
+    },
+    {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\darkPaw.ico",
       "PackagePath": "staticwebassets\\Assets\\darkPaw.ico"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelCameron.jpg",
+      "PackagePath": "staticwebassets\\Assets\\dogModels\\modelCameron.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelGibbs.jpg",
+      "PackagePath": "staticwebassets\\Assets\\dogModels\\modelGibbs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelGigi.jpg",
+      "PackagePath": "staticwebassets\\Assets\\dogModels\\modelGigi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelPip.jpg",
+      "PackagePath": "staticwebassets\\Assets\\dogModels\\modelPip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelPixie.jpg",
+      "PackagePath": "staticwebassets\\Assets\\dogModels\\modelPixie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelRandy.jpg",
+      "PackagePath": "staticwebassets\\Assets\\dogModels\\modelRandy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelTank.jpg",
+      "PackagePath": "staticwebassets\\Assets\\dogModels\\modelTank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelYang.jpg",
+      "PackagePath": "staticwebassets\\Assets\\dogModels\\modelYang.jpg"
     },
     {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\lightPaw.ico",
@@ -71,6 +107,10 @@
     {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\pawclipartlight.png",
       "PackagePath": "staticwebassets\\Assets\\pawclipartlight.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\shelterinfo_transparent.png",
+      "PackagePath": "staticwebassets\\Assets\\shelterinfo_transparent.png"
     },
     {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog1.jpg",

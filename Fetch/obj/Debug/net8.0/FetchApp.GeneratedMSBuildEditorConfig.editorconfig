@@ -174,6 +174,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZG9wdGVkRG9ncy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Langkee-chan/source/repos/FetchApp/Fetch/Components/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250YWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Langkee-chan/source/repos/FetchApp/Fetch/Components/Pages/Dogs.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2dzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -186,12 +190,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeGFtcGxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Langkee-chan/source/repos/FetchApp/Fetch/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Langkee-chan/source/repos/FetchApp/Fetch/Components/Pages/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9maWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Langkee-chan/source/repos/FetchApp/Fetch/Components/Pages/Shelter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaGVsdGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Langkee-chan/source/repos/FetchApp/Fetch/Components/Routes.razor]
@@ -209,3 +213,7 @@ build_metadata.AdditionalFiles.CssScope = b-lqy5ypol0s
 [C:/Users/Langkee-chan/source/repos/FetchApp/Fetch/Components/Layout/NavBar.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2QmFyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-jx6gdtvphr
+
+[C:/Users/Langkee-chan/source/repos/FetchApp/Fetch/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-njyna77eq5

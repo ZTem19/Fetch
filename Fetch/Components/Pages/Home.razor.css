@@ -1,0 +1,148 @@
+﻿.homepage {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    padding: 2em;
+}
+
+
+.welcome-section {
+    margin-bottom: 2em;
+}
+
+    .welcome-section h1 {
+        font-size: 2.5em;
+        margin-bottom: 0.5em;
+    }
+
+    .welcome-section h2 {
+        font-size: 1.8em;
+        margin-bottom: 1em;
+    }
+
+    .welcome-section p {
+        font-size: 1.2em;
+        margin-bottom: 1.5em;
+    }
+
+.explore-button {
+    display: inline-block;
+    padding: 0.7em 1.5em;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none; /*remove underline*/
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 1em;
+}
+
+.explore-button:hover {
+    background-color: #0056b3;
+}
+
+
+.featured-dogs {
+    margin-bottom: 2em;
+}
+
+.dog-gallery {
+    display: flex;
+    gap: 1.5em;
+    justify-content: center;
+}
+
+.dog-card {
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1em;
+    max-width: 200px;
+}
+
+    .dog-card img {
+        width: 100%;
+        border-radius: 8px;
+        margin-bottom: 1em;
+    }
+
+.adopt-button {
+    padding: 0.5em;
+    font-size: 0.9em;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .adopt-button:hover {
+        background-color: #218838;
+    }
+
+.about-fetch ul {
+    text-align: left;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.call-to-action {
+    margin-top: 2em;
+}
+
+.start-adoption-button {
+    padding: 0.7em 1.5em;
+    font-size: 1.1em;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .start-adoption-button:hover {
+        background-color: #0056b3;
+    }
+
+
+.more-info-button {
+    padding: 0.7em 1.5em;
+    font-size: 1em;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 1em; /* Adds spacing above the button */
+}
+
+.more-info-button:hover {
+    background-color: #0056b3;
+}
+
+
+.dog-card {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    height: auto;
+    width: 100%;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.dog-card h3 {
+    margin: 0.5em 0; /* Adjusts space above and below the dog's name */
+    display: block;
+}
+
+.dog-card p {
+    margin: 0.5em 0; /* Adjusts space above and below each paragraph */
+    display: block;
+}
+
+
+
+
