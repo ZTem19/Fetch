@@ -25,7 +25,8 @@
         <EditForm Model="Input" asp-route-returnUrl="@ReturnUrl" method="post" OnValidSubmit="RegisterUser" FormName="register">
             <DataAnnotationsValidator />
             <h2>Create a new account.</h2>
-            <medium>Having an account lets you submit applications, and view your pending applications.</medium>
+            <medium><p>Having an account lets you submit applications, </p> 
+                <p>and view your pending applications.</p></medium>
             <hr />
             <ValidationSummary class="text-danger" role="alert" />
             <div class="form-floating mb-3">
@@ -44,7 +45,8 @@
                 <ValidationMessage For="() => Input.ConfirmPassword" class="text-danger" />
             </div>
             <div class="form-floating mb-3">
-                <small>Password must be alphanumeric, and contain at least one non-alphanumeric character/symbol.</small>
+                <small><p>Password must be alphanumeric, and contain at least</p> 
+                    <p>one non-alphanumeric character/symbol.</p></small>
             </div>
             <button type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
             

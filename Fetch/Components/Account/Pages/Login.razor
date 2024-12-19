@@ -20,7 +20,9 @@
             <EditForm Model="Input" method="post" OnValidSubmit="LoginUser" FormName="login">
                 <DataAnnotationsValidator />
                 <h2>Login to an existing account:</h2>
-                <medium>You must be logged in to view your profile, submit and view your pending applications</medium>
+                <medium>
+                    <p>You must be logged in to view your profile,</p>
+                    <p>submit and view your pending applications</p></medium>
                 <hr />
                 <ValidationSummary class="text-danger" role="alert" />
                 <div class="form-floating mb-3">
