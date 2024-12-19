@@ -1,46 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\",
+  "WorkspaceRootPath": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\example.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\example.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,132 +50,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Error.razor",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Error.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Error.razor",
-              "RelativeToolTip": "Components\\Pages\\Error.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:54:39.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\App.razor",
-              "RelativeDocumentMoniker": "Components\\App.razor",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\App.razor",
-              "RelativeToolTip": "Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:54:12.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:53:14.252Z",
+              "WhenOpened": "2024-12-19T00:24:55.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Data\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Data\\ApplicationUser.cs",
-              "RelativeToolTip": "Data\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:53:11.214Z",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T00:06:00.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.razor",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Pages\\Login.razor",
-              "RelativeDocumentMoniker": "Components\\Account\\Pages\\Login.razor",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Pages\\Login.razor",
-              "RelativeToolTip": "Components\\Account\\Pages\\Login.razor",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAswHsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:44:47.534Z",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:36:48.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Example.razor",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Example.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Example.razor",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Example.razor",
-              "RelativeToolTip": "Components\\Pages\\Example.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:38:28.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NavBar.razor.css",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor.css",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor.css",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor.css",
-              "RelativeToolTip": "Components\\Layout\\NavBar.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-18T07:22:58.18Z",
+              "WhenOpened": "2024-12-18T23:11:53.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NavBar.razor",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor",
+              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Layout\\NavBar.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor",
+              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Layout\\NavBar.razor",
               "RelativeToolTip": "Components\\Layout\\NavBar.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-18T07:22:57.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainLayout.razor.css",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor.css",
-              "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-18T07:21:32.895Z",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:51:38.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:19:03.757Z",
+              "DocumentIndex": 6,
+              "Title": "NavBar.razor.css",
+              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Layout\\NavBar.razor.css",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor.css",
+              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Layout\\NavBar.razor.css",
+              "RelativeToolTip": "Components\\Layout\\NavBar.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T07:22:58.18Z",
               "EditorCaption": ""
             }
           ]

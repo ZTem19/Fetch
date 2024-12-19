@@ -1,4 +1,7 @@
 ﻿<!-- This component is the nav bar at the top of the any page. -->
+@inject UserManager<ApplicationUser> UserManager
+@inject AuthenticationStateProvider GetAuthenticationState
+
 
 <div class="navbar">
 
@@ -14,88 +17,90 @@
 	</div>
 
 
-	@*
-
 	<div class="navbar-item">
-		<NavLink class="nav-link" href="@getAccountPath()" >
-			<span class="username">@getUserName()</span>
-		</NavLink>
-	</div>
-	*@
-
-
-	<div class="navbar-item">
-		<NavLink class="nav-link" href="/Error">
-			<img class="accountico" src="../../Assets/blankaccount.png" alt="Account Picture"/>
+		<NavLink class="nav-link" href="/Dogs">
+			<span>
+				View Listings
+			</span>
 		</NavLink>
 	</div>
 
+	<AuthorizeView>
+		<Authorized>
+			<div class="navbar-item px-3">
+				<NavLink class="nav-link" href="Account/Manage">
+					<span class="bi bi-person-fill-nav-menu" aria-hidden="true"></span> @getUserFName()
+				</NavLink>
+			</div>
 
-	<div class="navbar-item">
-        <NavLink class="nav-link" href="/Dogs">
-            <img class="accountico" src="../../Assets/blankaccount.png" alt="Available Dogs"/>
-        </NavLink>
-	</div>
+			<div class="navbar-item px-3">
+				<form action="Account/Logout" method="post">
+					<AntiforgeryToken />
+					<input type="hidden" name="ReturnUrl" value="@currentUrl" />
+					<button type="submit" class="nav-link">
+						<span class="bi bi-arrow-bar-left-nav-menu" aria-hidden="true"></span> Logout
+					</button>
+				</form>
+			</div>
 
-   
-	<div class="navbar-item">
-      <NavLink class="nav-link" href="/Profile">
-           <img class="accountico" src="../../Assets/blankaccount.png" alt="View Your Profile"/>
-      </NavLink>
-	</div>
+			<div class="navbar-item">
+				<NavLink class="nav-link" href="/Profile">
+					<img class="accountico" src="../../Assets/blankaccount.png" alt="View Your Profile" />
+				</NavLink>
+			</div>
+		</Authorized>
 
-	
-	 <AuthorizeView>
-            <Authorized>
-                <div class="navbar-item px-3">
-                    <NavLink class="nav-link" href="Account/Manage">
-                        <span class="bi bi-person-fill-nav-menu" aria-hidden="true"></span> @context.User.Identity?.Name
-                    </NavLink>
-                </div>
-                <div class="navbar-item px-3">
-                    <form action="Account/Logout" method="post">
-                        <AntiforgeryToken />
-                        <input type="hidden" name="ReturnUrl" value="@currentUrl" />
-                        <button type="submit" class="nav-link">
-                            <span class="bi bi-arrow-bar-left-nav-menu" aria-hidden="true"></span> Logout
-                        </button>
-                    </form>
-                </div>
-            </Authorized>
+		<NotAuthorized>
+			<div class="navbar-item px-3">
+				<NavLink class="nav-link" href="Account/Register">
+					<span class="bi bi-person-nav-menu" aria-hidden="true"></span> Register
+				</NavLink>
+			</div>
+			<div class="navbar-item px-3">
+				<NavLink class="nav-link" href="Account/Login">
+					<span class="bi bi-person-badge-nav-menu" aria-hidden="true"></span> Login
+				</NavLink>
+			</div>
 
-            <NotAuthorized>
-                <div class="navbar-item px-3">
-                    <NavLink class="nav-link" href="Account/Register">
-                        <span class="bi bi-person-nav-menu" aria-hidden="true"></span> Register
-                    </NavLink>
-                </div>
-                <div class="navbar-item px-3">
-                    <NavLink class="nav-link" href="Account/Login">
-                        <span class="bi bi-person-badge-nav-menu" aria-hidden="true"></span> Login
-                    </NavLink>
-                </div>
-            </NotAuthorized>
+			<div class="navbar-item">
+				<NavLink class="nav-link" href="/Profile">
+					<img class="accountico" src="../../Assets/blankaccount.png" alt="View Your Profile" />
+				</NavLink>
+			</div>
+
+		</NotAuthorized>
 	</AuthorizeView>
-
-
-
 </div>
 
-	
+
 
 @code {
-	[CascadingParameter(Name = "user")]
-	protected Data.ApplicationUser? currentUser { get; set; }
-
 	[Inject]
 	NavigationManager NavigationManager { get; set; } = default;
 
+	private ApplicationUser? User { get; set; }
+
 	private string? currentUrl;
+
+	private string getUserFName(){
+		if(User != null){
+
+		}
+
+		System.Diagnostics.Debug.WriteLine("User is null");
+		return User != null && User.FirstName != null ? User.FirstName : "First Name Here" ;
+	}
 
 	protected override void OnInitialized()
 	{
 		currentUrl = NavigationManager.ToBaseRelativePath(NavigationManager.Uri);
 		NavigationManager.LocationChanged += OnLocationChanged;
+	}
+
+	protected override async Task OnInitializedAsync()
+	{
+		var authState = await GetAuth
+		UserManager.GetUserAsync();
 	}
 
 	private void OnLocationChanged(object? sender, LocationChangedEventArgs e) 
@@ -104,32 +109,8 @@
 		StateHasChanged(); 
 	}
 
-
-
-	//Get Current users name or return "login" if no user is logged in
-	public string getUserName()
-	{
-		// System.Diagnostics.Debug.WriteLine($"Current User is: {currentUser.FirstName}");
-		// if(currentUser != null && currentUser.FirstName != null){
-		// 	return currentUser.FirstName;
-		// }
-
-		return currentUser?.UserName ?? "Login";
-	}
-
-	public string getAccountPath()
-	{
-		return currentUser != null ? "Account/Manage" : "Account/Login";
-	}
-
 	public void Dispose() 
 	{ 
 		NavigationManager.LocationChanged -= OnLocationChanged; 
 	}
-
-	// protected override void OnInitialized()
-	// {
-	// 	base.OnInitialized();
-	// 	getUserName();
-	// }
 }

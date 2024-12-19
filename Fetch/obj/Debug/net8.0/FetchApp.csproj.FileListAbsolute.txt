@@ -441,7 +441,6 @@ C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\staticwebassets\msbuild.b
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.FetchApp.props
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.FetchApp.props
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\FetchApp.csproj.Up2Date
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\FetchApp.dll
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\refint\FetchApp.dll
@@ -596,3 +595,4 @@ C:\Users\Langkee-chan\source\repos\FetchApp\Fetch\obj\Debug\net8.0\refint\FetchA
 C:\Users\Langkee-chan\source\repos\FetchApp\Fetch\obj\Debug\net8.0\FetchApp.pdb
 C:\Users\Langkee-chan\source\repos\FetchApp\Fetch\obj\Debug\net8.0\FetchApp.genruntimeconfig.cache
 C:\Users\Langkee-chan\source\repos\FetchApp\Fetch\obj\Debug\net8.0\ref\FetchApp.dll
+C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
