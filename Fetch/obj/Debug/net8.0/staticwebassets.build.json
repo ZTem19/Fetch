@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7uxwmUfBE+iJP2x6Zu/dtF9srJhkklBVCCP4WtXbXsk=",
+  "Hash": "hchQ7d7cWXn90tvpbqWwhopRR/BqMH0Ag0tTTqnJUqM=",
   "Source": "FetchApp",
   "BasePath": "_content/FetchApp",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\availabledogs_transparent.png"
+    },
+    {
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\background1.png",
+      "SourceId": "FetchApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
+      "BasePath": "_content/FetchApp",
+      "RelativePath": "Assets/background1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\background1.png"
     },
     {
       "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\blankaccount.png",

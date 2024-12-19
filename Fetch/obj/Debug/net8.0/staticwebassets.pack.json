@@ -49,6 +49,10 @@
       "PackagePath": "staticwebassets\\Assets\\availabledogs_transparent.png"
     },
     {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\background1.png",
+      "PackagePath": "staticwebassets\\Assets\\background1.png"
+    },
+    {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\blankaccount.png",
       "PackagePath": "staticwebassets\\Assets\\blankaccount.png"
     },
