@@ -60,8 +60,6 @@
     font-family: Verdana, sans-serif;
 }
 
-
-
 .navbar-left[b-jx6gdtvphr] {
     display: inline-flex;
     gap: 15px;
@@ -121,6 +119,7 @@
     height: 20em;
     border-radius: 50%;
 }
+
 /* _content/FetchApp/Components/Pages/Home.razor.rz.scp.css */
 .homepage[b-njyna77eq5] {
     font-family: Verdana, sans-serif;

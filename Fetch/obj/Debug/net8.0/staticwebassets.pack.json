@@ -1,168 +1,172 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\FetchApp.bundle.scp.css"
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FetchApp.mckkou8s24.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogo2.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\FetchLogo2.png",
       "PackagePath": "staticwebassets\\Assets\\FetchLogo2.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogo2_Solid.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\FetchLogo2_Solid.png",
       "PackagePath": "staticwebassets\\Assets\\FetchLogo2_Solid.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogo2_noName.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\FetchLogo2_noName.png",
       "PackagePath": "staticwebassets\\Assets\\FetchLogo2_noName.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogoHome.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\FetchLogoHome.png",
       "PackagePath": "staticwebassets\\Assets\\FetchLogoHome.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogoHome1_solid.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\FetchLogoHome1_solid.png",
       "PackagePath": "staticwebassets\\Assets\\FetchLogoHome1_solid.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogoHome_solid.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\FetchLogoHome_solid.png",
       "PackagePath": "staticwebassets\\Assets\\FetchLogoHome_solid.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\News_solid.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\News_solid.png",
       "PackagePath": "staticwebassets\\Assets\\News_solid.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\adopteddogs_solid.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\adopteddogs_solid.png",
       "PackagePath": "staticwebassets\\Assets\\adopteddogs_solid.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\adopteddogs_transparent.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\adopteddogs_transparent.png",
       "PackagePath": "staticwebassets\\Assets\\adopteddogs_transparent.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\availabledogs_solid.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\availabledogs_solid.png",
       "PackagePath": "staticwebassets\\Assets\\availabledogs_solid.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\availabledogs_transparent.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\availabledogs_transparent.png",
       "PackagePath": "staticwebassets\\Assets\\availabledogs_transparent.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\background1.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\background1.png",
       "PackagePath": "staticwebassets\\Assets\\background1.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\background2.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\background2.png",
       "PackagePath": "staticwebassets\\Assets\\background2.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\blankaccount.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\blankaccount.png",
       "PackagePath": "staticwebassets\\Assets\\blankaccount.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\contact_transparent.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\contact_transparent.png",
       "PackagePath": "staticwebassets\\Assets\\contact_transparent.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\darkPaw.ico",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\darkPaw.ico",
       "PackagePath": "staticwebassets\\Assets\\darkPaw.ico"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelCameron.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\dogModels\\modelCameron.jpg",
       "PackagePath": "staticwebassets\\Assets\\dogModels\\modelCameron.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelGibbs.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\dogModels\\modelGibbs.jpg",
       "PackagePath": "staticwebassets\\Assets\\dogModels\\modelGibbs.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelGigi.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\dogModels\\modelGigi.jpg",
       "PackagePath": "staticwebassets\\Assets\\dogModels\\modelGigi.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelPip.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\dogModels\\modelPip.jpg",
       "PackagePath": "staticwebassets\\Assets\\dogModels\\modelPip.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelPixie.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\dogModels\\modelPixie.jpg",
       "PackagePath": "staticwebassets\\Assets\\dogModels\\modelPixie.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelRandy.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\dogModels\\modelRandy.jpg",
       "PackagePath": "staticwebassets\\Assets\\dogModels\\modelRandy.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelTank.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\dogModels\\modelTank.jpg",
       "PackagePath": "staticwebassets\\Assets\\dogModels\\modelTank.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\dogModels\\modelYang.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\dogModels\\modelYang.jpg",
       "PackagePath": "staticwebassets\\Assets\\dogModels\\modelYang.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\lightPaw.ico",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\lightPaw.ico",
       "PackagePath": "staticwebassets\\Assets\\lightPaw.ico"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\new_transparent.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\new_transparent.png",
       "PackagePath": "staticwebassets\\Assets\\new_transparent.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\pawclipartdark.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\pawclipartdark.png",
       "PackagePath": "staticwebassets\\Assets\\pawclipartdark.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\pawclipartlight.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\pawclipartlight.png",
       "PackagePath": "staticwebassets\\Assets\\pawclipartlight.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\shelterinfo_transparent.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\shelterinfo_transparent.png",
       "PackagePath": "staticwebassets\\Assets\\shelterinfo_transparent.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog1.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog1.jpg",
       "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog1.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog2.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog2.jpg",
       "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog2.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog3.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog3.jpg",
       "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog3.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog4.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog4.jpg",
       "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog4.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog5.jpg",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog5.jpg",
       "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog5.jpg"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\userpic_solid.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\userpic_solid.png",
       "PackagePath": "staticwebassets\\Assets\\userpic_solid.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\userpic_transparent.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\userpic_transparent.png",
       "PackagePath": "staticwebassets\\Assets\\userpic_transparent.png"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\app.css",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FetchApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FetchApp.Microsoft.AspNetCore.StaticWebAssets.props",

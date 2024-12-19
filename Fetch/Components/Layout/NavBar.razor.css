@@ -8,8 +8,6 @@
     font-family: Verdana, sans-serif;
 }
 
-
-
 .navbar-left {
     display: inline-flex;
     gap: 15px;
@@ -69,3 +67,4 @@
     height: 20em;
     border-radius: 50%;
 }
+

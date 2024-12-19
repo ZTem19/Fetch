@@ -30,7 +30,7 @@
            @foreach (var dog in DogService.GetRandomDogs(4))     @* This will take 4 random dogs from hardcoded in DogService, if dog list database is available, jsut change*@
             {
                 <div class="dog-card">
-                    <img src="@dog.ImageUrl" alt="@dog.Name" />
+                    <img src="@dog.ImagePath" alt="@dog.Name" />
                     <h3>@dog.Name</h3>
                     <p>@dog.Breed</p> <br />
                     <p>@dog.Age</p>

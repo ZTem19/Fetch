@@ -597,3 +597,4 @@ C:\Users\Langkee-chan\source\repos\FetchApp\Fetch\obj\Debug\net8.0\FetchApp.pdb
 C:\Users\Langkee-chan\source\repos\FetchApp\Fetch\obj\Debug\net8.0\FetchApp.genruntimeconfig.cache
 C:\Users\Langkee-chan\source\repos\FetchApp\Fetch\obj\Debug\net8.0\ref\FetchApp.dll
 C:\Users\Langkee-chan\source\repos\FetchApp\Fetch\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
