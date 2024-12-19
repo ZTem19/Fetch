@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ManageNavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\ManageNavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageNavMenu.razor",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ManageLayout.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\ManageLayout.razor",
               "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageLayout.razor",
@@ -99,12 +99,11 @@
               "RelativeToolTip": "Components\\Account\\Shared\\ManageLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:33:44.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:33:44.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AccountLayout.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\AccountLayout.razor",
               "RelativeDocumentMoniker": "Components\\Account\\Shared\\AccountLayout.razor",
@@ -112,12 +111,11 @@
               "RelativeToolTip": "Components\\Account\\Shared\\AccountLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:33:23.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:33:23.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
@@ -125,12 +123,11 @@
               "RelativeToolTip": "Components\\Pages\\Error.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:28:59.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:28:59.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -138,12 +135,11 @@
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:23:51.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:23:51.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
@@ -151,18 +147,17 @@
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-18T07:21:32.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:21:32.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T02:15:48.738Z",
               "EditorCaption": ""
@@ -177,8 +172,7 @@
               "RelativeToolTip": "Components\\Pages\\Dogs.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T22:01:00.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T22:01:00.517Z"
             },
             {
               "$type": "Document",
@@ -190,8 +184,7 @@
               "RelativeToolTip": "Components\\Pages\\AdoptedDogs.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T21:52:19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T21:52:19Z"
             },
             {
               "$type": "Document",
@@ -203,8 +196,7 @@
               "RelativeToolTip": "Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:54:12.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:54:12.318Z"
             },
             {
               "$type": "Document",
@@ -216,12 +208,11 @@
               "RelativeToolTip": "Components\\Account\\Pages\\Login.razor",
               "ViewState": "AgIAAEkAAAAAAAAAAAAswHsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:44:47.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:44:47.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NavBar.razor.css",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor.css",
@@ -229,12 +220,11 @@
               "RelativeToolTip": "Components\\Layout\\NavBar.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-18T07:22:58.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:22:58.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NavBar.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor",
@@ -242,8 +232,7 @@
               "RelativeToolTip": "Components\\Layout\\NavBar.razor",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAEcAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:22:57.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:22:57.465Z"
             },
             {
               "$type": "Document",
@@ -255,8 +244,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAC8AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:19:03.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:19:03.757Z"
             }
           ]
         }
