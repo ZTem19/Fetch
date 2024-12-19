@@ -6,7 +6,13 @@
 
 
 .welcome-section {
+    max-width: 1400px;
+    margin: 0 auto;
     margin-bottom: 2em;
+    text-align: center;
+    background-color: rgb(255, 255, 255, 0.7);  /* white and has 70% opacisty (0.7) */
+    padding: 20px;
+    border-radius: 10px;
 }
 
     .welcome-section h1 {
@@ -59,6 +65,9 @@
     border-radius: 8px;
     padding: 1em;
     max-width: 200px;
+    background-color: rgb(255, 255, 255, 0.7); /* white and has 70% opacity */
+    padding: 20px;
+    border-radius: 10px;
 }
 
     .dog-card img {
@@ -85,6 +94,14 @@
     text-align: left;
     margin: 0 auto;
     display: inline-block;
+}
+
+.about-fetch-content {
+    margin: 0 auto;
+    display: inline-block;
+    background-color: rgb(255, 255, 255, 0.6); /* white and has 60% opacity */
+    padding: 20px;
+    border-radius: 10px;
 }
 
 .call-to-action {

@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\shelter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\shelter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,6 +25,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\data\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:data\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\dogs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\shelter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\shelter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "wwwroot\\app.css",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\app.css",
               "RelativeToolTip": "wwwroot\\app.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-19T17:41:55.447Z",
               "EditorCaption": ""
@@ -127,19 +127,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "Shelter.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Shelter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Shelter.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Shelter.razor",
               "RelativeToolTip": "Components\\Pages\\Shelter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T04:50:39.45Z"
+              "WhenOpened": "2024-12-19T04:50:39.45Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Profile.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Profile.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Profile.razor",
@@ -151,19 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Home.razor.css",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor.css",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor.css",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor.css",
-              "RelativeToolTip": "Components\\Pages\\Home.razor.css",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-19T04:45:31.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Example.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Example.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Example.razor",
@@ -175,19 +164,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "DogService.cs",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Data\\DogService.cs",
               "RelativeDocumentMoniker": "Data\\DogService.cs",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Data\\DogService.cs",
               "RelativeToolTip": "Data\\DogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T04:18:54.841Z"
+              "WhenOpened": "2024-12-19T04:18:54.841Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ManageNavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\ManageNavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageNavMenu.razor",
@@ -199,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ManageLayout.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\ManageLayout.razor",
               "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageLayout.razor",
@@ -223,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -236,33 +226,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor.css",
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswCUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-18T07:21:32.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T02:15:48.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "Home.razor.css",
+              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor.css",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor.css",
+              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor.css",
+              "RelativeToolTip": "Components\\Pages\\Home.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-19T04:45:31.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Dogs.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Dogs.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Dogs.razor",
@@ -310,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "NavBar.razor.css",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor.css",
@@ -318,12 +321,11 @@
               "RelativeToolTip": "Components\\Layout\\NavBar.razor.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-18T07:22:58.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:22:58.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "NavBar.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor",
@@ -331,8 +333,7 @@
               "RelativeToolTip": "Components\\Layout\\NavBar.razor",
               "ViewState": "AgIAAD8AAAAAAAAAAAAswEYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:22:57.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:22:57.465Z"
             },
             {
               "$type": "Document",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hchQ7d7cWXn90tvpbqWwhopRR/BqMH0Ag0tTTqnJUqM=",
+  "Hash": "0Ok1nwy7JpUsc03LlDYYTNY+qGLt8S0TF5BgAurkSzE=",
   "Source": "FetchApp",
   "BasePath": "_content/FetchApp",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\background1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\background2.png",
+      "SourceId": "FetchApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\",
+      "BasePath": "_content/FetchApp",
+      "RelativePath": "Assets/background2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\background2.png"
     },
     {
       "Identity": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\blankaccount.png",

@@ -33,7 +33,7 @@
 }
 
 .content[b-lqy5ypol0s] {
-    background-image: url('../../Assets/background1.png');
+    background-image: url('../../Assets/background2.png');
     background-repeat: repeat;
     background-size: auto;
     background-position: top left;
@@ -41,6 +41,8 @@
     font-family: Verdana, sans-serif;
     padding: 20px;
 }
+
+
 
 
 
@@ -128,7 +130,13 @@
 
 
 .welcome-section[b-njyna77eq5] {
+    max-width: 1400px;
+    margin: 0 auto;
     margin-bottom: 2em;
+    text-align: center;
+    background-color: rgb(255, 255, 255, 0.7);  /* white and has 70% opacisty (0.7) */
+    padding: 20px;
+    border-radius: 10px;
 }
 
     .welcome-section h1[b-njyna77eq5] {
@@ -181,6 +189,9 @@
     border-radius: 8px;
     padding: 1em;
     max-width: 200px;
+    background-color: rgb(255, 255, 255, 0.7); /* white and has 70% opacity */
+    padding: 20px;
+    border-radius: 10px;
 }
 
     .dog-card img[b-njyna77eq5] {
@@ -207,6 +218,14 @@
     text-align: left;
     margin: 0 auto;
     display: inline-block;
+}
+
+.about-fetch-content[b-njyna77eq5] {
+    margin: 0 auto;
+    display: inline-block;
+    background-color: rgb(255, 255, 255, 0.6); /* white and has 60% opacity */
+    padding: 20px;
+    border-radius: 10px;
 }
 
 .call-to-action[b-njyna77eq5] {

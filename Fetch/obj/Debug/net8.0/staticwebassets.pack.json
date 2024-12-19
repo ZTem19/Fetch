@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\Assets\\background1.png"
     },
     {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\background2.png",
+      "PackagePath": "staticwebassets\\Assets\\background2.png"
+    },
+    {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\blankaccount.png",
       "PackagePath": "staticwebassets\\Assets\\blankaccount.png"
     },

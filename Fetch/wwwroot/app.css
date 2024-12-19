@@ -51,3 +51,13 @@ header.topbar {
     top: 0;
     height: fit-content;
 }
+
+.text-area {
+    white-space: normal; /* Allows text to wrap naturally */
+    overflow-wrap: break-word; /* Breaks long words to prevent overflow */
+    word-break: break-word; /* Ensures long words break to fit within the container */
+    line-height: 1.5; /* Adds space between lines for readability */
+    padding: 10px; /* Adds padding inside the container */
+    box-sizing: border-box; /* Includes padding in the element's total width */
+    max-width: 100%; /* Ensures the container doesn't exceed the parent's width */
+}

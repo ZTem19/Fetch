@@ -8,7 +8,7 @@
 
 <div class="homepage">
     <section class="welcome-section">
-        <h1>Welcome to Fetch, a non-profit dog-focused adoption shelter.</h1>
+        <h1>Welcome to Fetch, a non-profit, dog-focused adoption shelter.</h1>
 
         <h2>Fetch your Fur-ever friend!</h2>
 
@@ -32,8 +32,8 @@
                 <div class="dog-card">
                     <img src="@dog.ImageUrl" alt="@dog.Name" />
                     <h3>@dog.Name</h3>
-                    <h4>@dog.Breed</h4>
-                    <h4>@dog.Age</h4>
+                    <p>@dog.Breed</p> <br />
+                    <p>@dog.Age</p>
 
                  @*BUTTON does not link to anythign because we are msising the ADOPT/Application process --> assigned to someone else*@
                     <button class="adopt-button">Adopt @dog.Name</button>
@@ -47,25 +47,22 @@
 
     <!-- About Fetch Section -->
     <section class="about-fetch">
-        <h2>Why Choose Fetch?</h2>
-        <p>
-            We’ve been working with rescue dogs for over a decade, helping over 1,000 dogs find their forever homes.
-            <p>When you adopt through Fetch, you’re not just giving a dog a home—you’re saving a life.</p>
-        </p>
-        <ul>
+        <div class="about-fetch-content">
+            <h2>Why Choose Fetch?</h2>
+
+                 <p>We’ve been working with rescue dogs for over a decade, helping over 1,000 dogs find their forever homes.</p>
+                 <p>When you adopt through Fetch, you’re not just giving a dog a home—you’re saving a life.</p>
+            <ul>
+                <p>
+                <p>• 100% Non-profit organization</p>
+                <p>• Experienced staff to guide you through the adoption process</p>
+                <p>• All dogs are spayed/neutered and vaccinated</p>
+                </p>
+            </ul>
             <p>
-            <p>• 100% Non-profit organization</p>
-            <p>• Experienced staff to guide you through the adoption process</p>
-            <p>• All dogs are spayed/neutered and vaccinated</p>
+            <NavLink class="more-info-button" href="/shelter-info">Learn More About Fetch</NavLink>
             </p>
-        </ul> 
-        <br />
-        <br />
-
-        <p>
-        <NavLink class="more-info-button" href="/shelter-info">Learn More About Fetch</NavLink>
-        </p>
-
+        </div>
     </section>
 
     <!-- Call-to-Action Section -->
