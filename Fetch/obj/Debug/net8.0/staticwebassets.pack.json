@@ -5,6 +5,50 @@
       "PackagePath": "staticwebassets\\FetchApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogo2.png",
+      "PackagePath": "staticwebassets\\Assets\\FetchLogo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogo2_Solid.png",
+      "PackagePath": "staticwebassets\\Assets\\FetchLogo2_Solid.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogo2_noName.png",
+      "PackagePath": "staticwebassets\\Assets\\FetchLogo2_noName.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogoHome.png",
+      "PackagePath": "staticwebassets\\Assets\\FetchLogoHome.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogoHome1_solid.png",
+      "PackagePath": "staticwebassets\\Assets\\FetchLogoHome1_solid.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\FetchLogoHome_solid.png",
+      "PackagePath": "staticwebassets\\Assets\\FetchLogoHome_solid.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\News_solid.png",
+      "PackagePath": "staticwebassets\\Assets\\News_solid.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\adopteddogs_solid.png",
+      "PackagePath": "staticwebassets\\Assets\\adopteddogs_solid.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\adopteddogs_transparent.png",
+      "PackagePath": "staticwebassets\\Assets\\adopteddogs_transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\availabledogs_solid.png",
+      "PackagePath": "staticwebassets\\Assets\\availabledogs_solid.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\availabledogs_transparent.png",
+      "PackagePath": "staticwebassets\\Assets\\availabledogs_transparent.png"
+    },
+    {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\blankaccount.png",
       "PackagePath": "staticwebassets\\Assets\\blankaccount.png"
     },
@@ -15,6 +59,10 @@
     {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\lightPaw.ico",
       "PackagePath": "staticwebassets\\Assets\\lightPaw.ico"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\new_transparent.png",
+      "PackagePath": "staticwebassets\\Assets\\new_transparent.png"
     },
     {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\pawclipartdark.png",
@@ -43,6 +91,14 @@
     {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\stockImages\\stockDog5.jpg",
       "PackagePath": "staticwebassets\\Assets\\stockImages\\stockDog5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\userpic_solid.png",
+      "PackagePath": "staticwebassets\\Assets\\userpic_solid.png"
+    },
+    {
+      "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\Assets\\userpic_transparent.png",
+      "PackagePath": "staticwebassets\\Assets\\userpic_transparent.png"
     },
     {
       "Id": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\wwwroot\\app.css",
