@@ -27,7 +27,7 @@
     <section class="featured-dogs"> 
         <h2>Meet Some of Our Adoptable Friends</h2>
         <div class="dog-gallery"> 
-           @foreach (var dog in DogService.GetRandomDogs(3))     @* This will take 3 random dogs from hardcoded in DogService, if dog list database is available, jsut change*@
+           @foreach (var dog in DogService.GetRandomDogs(4))     @* This will take 4 random dogs from hardcoded in DogService, if dog list database is available, jsut change*@
             {
                 <div class="dog-card">
                     <img src="@dog.ImageUrl" alt="@dog.Name" />
