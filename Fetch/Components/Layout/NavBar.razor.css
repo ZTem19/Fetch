@@ -63,7 +63,7 @@
     transform: scale(1.5);
 }
 
-.homeico {
+.homeico {                  /* not being used right now*/
     margin: 1em;
     width: 20em;
     height: 20em;

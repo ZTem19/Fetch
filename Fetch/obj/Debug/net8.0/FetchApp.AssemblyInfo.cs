@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FetchApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89268633b37a2ae7a28010bd46445c205871759a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38b4d9c06f161f8d1ff4c5709811f183f45f2787")]
 [assembly: System.Reflection.AssemblyProductAttribute("FetchApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FetchApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

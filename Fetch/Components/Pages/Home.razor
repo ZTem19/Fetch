@@ -19,8 +19,8 @@
             <p>We have a variety of breeds and sizes, so you are sure to find the perfect companion for you and your family. </p>
         </p>
 
-        <!-- Link to Available dogs -->
-        <NavLink class="explore-button" href="/dogs">Explore Available Dogs</NavLink>
+        <!-- Link to Available dogs -->            @*works*@
+        <NavLink class="explore-button" href="/dogs">Explore Available Dogs</NavLink>   
     </section>
 
         <!-- Featured Dogs Section -->
@@ -32,8 +32,10 @@
                 <div class="dog-card">
                     <img src="@dog.ImageUrl" alt="@dog.Name" />
                     <h3>@dog.Name</h3>
-                    <p>@dog.Breed</p>
-                    <p>@dog.Age</p>
+                    <h4>@dog.Breed</h4>
+                    <h4>@dog.Age</h4>
+
+                 @*BUTTON does not link to anythign because we are msising the ADOPT/Application process --> assigned to someone else*@
                     <button class="adopt-button">Adopt @dog.Name</button>
                 </div>
                 
@@ -70,6 +72,8 @@
     <section class="call-to-action">
         <h2>Ready to Make a Difference?</h2>
         <p>Adopting a dog is a big step, but our team is here to help you every step of the way.</p>
+
+        @*BUTTON does not link to anythign because we are msising the ADOPT/Application process --> assigned to someone else*@
         <button class="start-adoption-button">Start the Adoption Process</button>
     </section>
 

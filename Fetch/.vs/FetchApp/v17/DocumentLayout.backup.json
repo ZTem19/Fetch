@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\shelter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\shelter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\dogs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\dogs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\example.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\example.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\adopteddogs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\adopteddogs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -47,8 +15,56 @@
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:data\\dogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\dogs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\dogs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\example.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\example.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\shelter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\shelter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\pages\\adopteddogs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\adopteddogs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,26 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\account\\shared\\managelayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\account\\shared\\accountlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\account\\shared\\accountlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\langkee-chan\\source\\repos\\fetchapp\\fetch\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -90,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,59 +98,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Contact.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Contact.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Contact.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Contact.razor",
               "RelativeToolTip": "Components\\Pages\\Contact.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T04:56:15.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Shelter.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Shelter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Shelter.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Shelter.razor",
               "RelativeToolTip": "Components\\Pages\\Shelter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T04:50:39.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Profile.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Profile.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Profile.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Profile.razor",
               "RelativeToolTip": "Components\\Pages\\Profile.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T04:50:33.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Home.razor.css",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor.css",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor.css",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor.css",
               "RelativeToolTip": "Components\\Pages\\Home.razor.css",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAAAIIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-19T04:45:31.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Example.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Example.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Example.razor",
@@ -167,57 +163,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "DogService.cs",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Data\\DogService.cs",
               "RelativeDocumentMoniker": "Data\\DogService.cs",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Data\\DogService.cs",
               "RelativeToolTip": "Data\\DogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T04:18:54.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "ManageNavMenu.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\ManageNavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageNavMenu.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\ManageNavMenu.razor",
               "RelativeToolTip": "Components\\Account\\Shared\\ManageNavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T02:33:50.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "ManageLayout.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\ManageLayout.razor",
               "RelativeDocumentMoniker": "Components\\Account\\Shared\\ManageLayout.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\ManageLayout.razor",
               "RelativeToolTip": "Components\\Account\\Shared\\ManageLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:33:44.955Z"
+              "WhenOpened": "2024-12-19T02:33:44.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AccountLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\AccountLayout.razor",
-              "RelativeDocumentMoniker": "Components\\Account\\Shared\\AccountLayout.razor",
-              "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Shared\\AccountLayout.razor",
-              "RelativeToolTip": "Components\\Account\\Shared\\AccountLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:33:23.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
@@ -225,50 +210,50 @@
               "RelativeToolTip": "Components\\Pages\\Error.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:28:59.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T02:28:59.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-19T02:23:51.516Z"
+              "WhenOpened": "2024-12-19T02:23:51.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "MainLayout.razor.css",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor.css",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\MainLayout.razor.css",
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor.css",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBwAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-18T07:21:32.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-19T02:15:48.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Dogs.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\Dogs.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Dogs.razor",
@@ -281,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "AdoptedDogs.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Pages\\AdoptedDogs.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\AdoptedDogs.razor",
@@ -289,12 +274,11 @@
               "RelativeToolTip": "Components\\Pages\\AdoptedDogs.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T21:52:19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T21:52:19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\App.razor",
               "RelativeDocumentMoniker": "Components\\App.razor",
@@ -302,12 +286,11 @@
               "RelativeToolTip": "Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T07:54:12.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:54:12.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Login.razor",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Account\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "Components\\Account\\Pages\\Login.razor",
@@ -319,13 +302,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "NavBar.razor.css",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor.css",
               "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor.css",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor.css",
               "RelativeToolTip": "Components\\Layout\\NavBar.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-18T07:22:58.18Z",
               "EditorCaption": ""
@@ -338,14 +321,14 @@
               "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor",
               "ToolTip": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Components\\Layout\\NavBar.razor",
               "RelativeToolTip": "Components\\Layout\\NavBar.razor",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswEQAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAswKAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-18T07:22:57.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Langkee-chan\\source\\repos\\FetchApp\\Fetch\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -353,8 +336,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAowEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T07:19:03.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T07:19:03.757Z"
             }
           ]
         }

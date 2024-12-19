@@ -27,7 +27,7 @@
 
 
 .main-layout[b-lqy5ypol0s] {
-    font-family: Verdana, sans-serif;
+    font-family: Verdana, sans-serif;       /*  font ? not sure if this worked */
     background-color: lightblue;
    
 }
@@ -100,7 +100,7 @@
     transform: scale(1.5);
 }
 
-.homeico[b-jx6gdtvphr] {
+.homeico[b-jx6gdtvphr] {                  /* not being used right now*/
     margin: 1em;
     width: 20em;
     height: 20em;
@@ -249,8 +249,9 @@
 
 .dog-card p[b-njyna77eq5] {
     margin: 0.5em 0; /* Adjusts space above and below each paragraph */
-    display: block;
+    display: block; /* a */
 }
+
 
 
 
