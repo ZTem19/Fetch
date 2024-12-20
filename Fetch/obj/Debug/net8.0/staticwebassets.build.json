@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PFmZoR+isFEZxMka0xeoOWZu1Bd0iTdsc4XZIraKTbc=",
+  "Hash": "Y9g3b4h9/kFg6aLmQGkm9BxLhBtSfLhydq/T0AoNMr8=",
   "Source": "FetchApp",
   "BasePath": "_content/FetchApp",
   "Mode": "Default",
@@ -17,6 +17,48 @@
   ],
   "Assets": [
     {
+      "Identity": "C:\\Users\\zande\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\zande\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "25o87uqmvr",
+      "Integrity": "Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\zande\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\zande\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
+      "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\zande\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\",
+      "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
+      "RelativePath": "QuickGrid.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eu7w3d5g1a",
+      "Integrity": "tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\zande\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js"
+    },
+    {
       "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css",
       "SourceId": "FetchApp",
       "SourceType": "Computed",
@@ -31,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "mckkou8s24",
-      "Integrity": "BnQOtVhFnGwEaj9N7q02G+5CGRiz+wmSqevYduj//uI=",
+      "Fingerprint": "k4kpdduu4z",
+      "Integrity": "JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css"
@@ -52,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "mckkou8s24",
-      "Integrity": "BnQOtVhFnGwEaj9N7q02G+5CGRiz+wmSqevYduj//uI=",
+      "Fingerprint": "to35xwx777",
+      "Integrity": "E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css"
@@ -850,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6gzpyzhau4",
-      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
@@ -901,6 +943,80 @@
   ],
   "Endpoints": [
     {
+      "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "AssetFile": "C:\\Users\\zande\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8251"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 23:57:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nuu0BHvGBlwN6c5FSVjV9yxX0YPfwg3ufdOucRJCOz0="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Microsoft.AspNetCore.Components.QuickGrid/QuickGrid.razor.js",
+      "AssetFile": "C:\\Users\\zande\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2563"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Oct 2024 23:38:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tnamWuQ2F5I2J8hbtBt4/9i8Mb2y2o+9Tepj5tUrSdU="
+        }
+      ]
+    },
+    {
       "Route": "app.css",
       "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
       "Selectors": [],
@@ -923,7 +1039,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 22:02:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -960,7 +1076,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 22:02:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1005,7 +1121,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1050,7 +1166,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1087,7 +1203,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1132,7 +1248,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1169,7 +1285,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1214,7 +1330,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1251,7 +1367,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1296,7 +1412,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1333,7 +1449,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 22:02:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1378,7 +1494,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 22:02:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1415,7 +1531,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 22:02:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1452,7 +1568,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 22:02:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1497,7 +1613,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 23:06:13 GMT"
+          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1542,7 +1658,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 09 Dec 2024 23:06:13 GMT"
+          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1579,7 +1695,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1624,7 +1740,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1661,7 +1777,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 17:11:40 GMT"
+          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1706,7 +1822,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 17:11:40 GMT"
+          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1743,7 +1859,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1780,7 +1896,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1825,7 +1941,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1870,7 +1986,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1907,7 +2023,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1952,7 +2068,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1989,7 +2105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2026,7 +2142,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2071,7 +2187,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2108,7 +2224,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2153,7 +2269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2198,7 +2314,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2235,7 +2351,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2280,7 +2396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2317,7 +2433,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2354,7 +2470,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2399,7 +2515,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:52 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2444,7 +2560,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:52 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2481,7 +2597,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:52 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2518,7 +2634,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:52 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2563,7 +2679,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:52 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2600,7 +2716,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:52 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2645,7 +2761,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:52 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2690,7 +2806,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:52 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2727,7 +2843,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,7 +2888,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2809,7 +2925,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:52 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2854,7 +2970,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:52 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2891,7 +3007,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 17:11:40 GMT"
+          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2936,7 +3052,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 17:11:40 GMT"
+          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2973,7 +3089,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3018,7 +3134,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3055,7 +3171,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3100,7 +3216,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3137,7 +3253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 17:11:40 GMT"
+          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3182,7 +3298,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 17:11:40 GMT"
+          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3219,7 +3335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 17:11:40 GMT"
+          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3264,7 +3380,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 12 Dec 2024 17:11:40 GMT"
+          "Value": "Tue, 10 Dec 2024 21:00:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3301,7 +3417,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3346,7 +3462,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3383,7 +3499,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Tue, 17 Dec 2024 18:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3428,7 +3544,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Tue, 17 Dec 2024 18:08:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3465,7 +3581,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Tue, 17 Dec 2024 18:08:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3502,7 +3618,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Tue, 17 Dec 2024 18:08:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3547,7 +3663,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Tue, 17 Dec 2024 18:06:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3584,7 +3700,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Tue, 17 Dec 2024 18:06:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3629,7 +3745,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Tue, 17 Dec 2024 17:57:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3666,7 +3782,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Tue, 17 Dec 2024 17:57:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3711,7 +3827,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Tue, 17 Dec 2024 17:54:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3748,7 +3864,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Tue, 17 Dec 2024 17:54:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3793,7 +3909,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3838,7 +3954,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3875,7 +3991,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3912,7 +4028,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 16:36:53 GMT"
+          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3935,7 +4051,7 @@
       ]
     },
     {
-      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
       "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3945,7 +4061,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162726"
+          "Value": "162720"
         },
         {
           "Name": "Content-Type",
@@ -3953,11 +4069,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3967,7 +4083,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6gzpyzhau4"
+          "Value": "bpk8xqwxhs"
         },
         {
           "Name": "label",
@@ -3975,7 +4091,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
         }
       ]
     },
@@ -3990,7 +4106,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "162726"
+          "Value": "162720"
         },
         {
           "Name": "Content-Type",
@@ -3998,11 +4114,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4012,7 +4128,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
         }
       ]
     },
@@ -4039,7 +4155,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4084,7 +4200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4121,7 +4237,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4166,7 +4282,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 18:26:08 GMT"
+          "Value": "Wed, 18 Dec 2024 00:13:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4191,7 +4307,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5984"
+          "Value": "6750"
         },
         {
           "Name": "Content-Type",
@@ -4199,11 +4315,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BnQOtVhFnGwEaj9N7q02G+5CGRiz+wmSqevYduj//uI=\""
+          "Value": "\"E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 22:02:53 GMT"
+          "Value": "Fri, 20 Dec 2024 05:41:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4213,57 +4329,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BnQOtVhFnGwEaj9N7q02G+5CGRiz+wmSqevYduj//uI="
+          "Value": "sha256-E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY="
         }
       ]
     },
     {
-      "Route": "FetchApp.mckkou8s24.bundle.scp.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5984"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BnQOtVhFnGwEaj9N7q02G+5CGRiz+wmSqevYduj//uI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 22:02:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mckkou8s24"
-        },
-        {
-          "Name": "label",
-          "Value": "FetchApp.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BnQOtVhFnGwEaj9N7q02G+5CGRiz+wmSqevYduj//uI="
-        }
-      ]
-    },
-    {
-      "Route": "FetchApp.mckkou8s24.styles.css",
+      "Route": "FetchApp.k4kpdduu4z.styles.css",
       "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4272,8 +4343,12 @@
           "Value": "bytes"
         },
         {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
           "Name": "Content-Length",
-          "Value": "5984"
+          "Value": "6872"
         },
         {
           "Name": "Content-Type",
@@ -4281,29 +4356,29 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BnQOtVhFnGwEaj9N7q02G+5CGRiz+wmSqevYduj//uI=\""
+          "Value": "\"JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 22:02:53 GMT"
+          "Value": "Fri, 20 Dec 2024 05:41:36 GMT"
         },
         {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mckkou8s24"
+          "Value": "k4kpdduu4z"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY="
         },
         {
           "Name": "label",
           "Value": "FetchApp.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-BnQOtVhFnGwEaj9N7q02G+5CGRiz+wmSqevYduj//uI="
         }
       ]
     },
@@ -4317,8 +4392,12 @@
           "Value": "bytes"
         },
         {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
           "Name": "Content-Length",
-          "Value": "5984"
+          "Value": "6872"
         },
         {
           "Name": "Content-Type",
@@ -4326,21 +4405,66 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BnQOtVhFnGwEaj9N7q02G+5CGRiz+wmSqevYduj//uI=\""
+          "Value": "\"JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Dec 2024 22:02:53 GMT"
+          "Value": "Fri, 20 Dec 2024 05:41:36 GMT"
         },
         {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BnQOtVhFnGwEaj9N7q02G+5CGRiz+wmSqevYduj//uI="
+          "Value": "sha256-JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY="
+        }
+      ]
+    },
+    {
+      "Route": "FetchApp.to35xwx777.bundle.scp.css",
+      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 05:41:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "to35xwx777"
+        },
+        {
+          "Name": "label",
+          "Value": "FetchApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY="
         }
       ]
     }

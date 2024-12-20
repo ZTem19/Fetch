@@ -1,0 +1,91 @@
+﻿@page "/doglistings/create"
+@using Microsoft.EntityFrameworkCore
+@using FetchApp.Data
+@using System.Drawing
+@using Microsoft.AspNetCore.Components.Web
+@inject IDbContextFactory<FetchAppContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create</PageTitle>
+
+<h1>Create</h1>
+
+<h2>DogListing</h2>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <EditForm method="post" Model="DogListing" OnValidSubmit="AddDogListing" FormName="create" Enhance>
+            <DataAnnotationsValidator />
+            <ValidationSummary class="text-danger" role="alert"/>
+            <div class="mb-3">
+                <label for="age" class="form-label">Age:</label> 
+                <InputText id="age" @bind-Value="DogListing.Age" class="form-control" /> 
+                <ValidationMessage For="() => DogListing.Age" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="name" class="form-label">Name:</label> 
+                <InputText id="name" @bind-Value="DogListing.Name" class="form-control" /> 
+                <ValidationMessage For="() => DogListing.Name" class="text-danger" /> 
+            </div>        
+            <div class="mb-3">
+                <label for="breed" class="form-label">Breed:</label> 
+                <InputText id="breed" @bind-Value="DogListing.Breed" class="form-control" /> 
+                <ValidationMessage For="() => DogListing.Breed" class="text-danger" /> 
+            </div>          
+            <div class="mb-3">
+                <label for="description" class="form-label">Description:</label> 
+                <InputText id="description" @bind-Value="DogListing.Description" class="form-control" />
+                <ValidationMessage For="() => DogListing.Description" class="text-danger" />
+            </div>
+            <div class="mb-3">
+                <div>
+                    <InputFile OnChange="SaveImage"/>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Create</button>
+        </EditForm>
+    </div>
+</div>
+
+<div>
+    <a href="/doglistings">Back to List</a>
+</div>
+
+@code {
+    [SupplyParameterFromForm]
+    private DogListing DogListing { get; set; } = new();
+
+    // To protect from overposting attacks, see https://learn.microsoft.com/aspnet/core/blazor/forms/#mitigate-overposting-attacks.
+    private async Task AddDogListing()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.DogListing.Add(DogListing);
+        await context.SaveChangesAsync();
+        NavigationManager.NavigateTo("/doglistings");
+    }
+
+    private string scaledImagePath = "../../scaledImages"; 
+    private async Task SaveImage(InputFileChangeEventArgs e)
+    {
+        var file = e.File;
+        if(!file.ContentType.StartsWith("image/")){
+            System.Diagnostics.Debug.WriteLine("Image is not a file is it :" + file.ContentType);
+            return; // File is not an image
+        }
+
+        var tmpimage = await file.RequestImageFileAsync("image/jpeg", 200, 200);
+        string name = file.Name;
+        string filepath = Path.Combine("wwwroot", "Assets", "doglistingImages", "scaledImages", name);
+
+        using (var stream = new FileStream(filepath, FileMode.Create)){
+            await tmpimage.OpenReadStream().CopyToAsync(stream);
+        }
+
+        System.Diagnostics.Debug.WriteLine($"File:{name} saved to :{filepath}");
+    }
+
+    private Image resizeImage(Image image, int height, int width)
+    {
+        return (Image)(new Bitmap(image, new Size(width, height)));
+    }
+}

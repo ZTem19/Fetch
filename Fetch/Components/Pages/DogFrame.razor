@@ -1,0 +1,31 @@
+﻿@using FetchApp.Data
+
+<div class="container">
+
+	<div class="title">
+
+		<div class="name">
+			@Dog.Name
+		</div>
+
+		<div class="age">
+			@Dog.Age
+		</div>
+
+	</div>
+
+	<div class="picture">
+		<img src="@Dog.ImagePath" alt="@(Dog.Name)'s Beautiful Picture" class=" picture"/>
+	</div>
+
+	<div class="description">
+		@Dog.Description
+	</div>
+
+</div>
+
+@code {
+	[Parameter]
+	public DogListing Dog { get; set; }
+
+}

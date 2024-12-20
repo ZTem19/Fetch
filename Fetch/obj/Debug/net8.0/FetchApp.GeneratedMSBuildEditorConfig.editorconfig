@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FetchApp
 build_property.RootNamespace = FetchApp
@@ -180,8 +188,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250YWN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/Dogs.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2dzLnJhem9y
+[C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/DogListingPages/Create.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2dMaXN0aW5nUGFnZXNcQ3JlYXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/DogListingPages/Delete.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2dMaXN0aW5nUGFnZXNcRGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/DogListingPages/Details.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2dMaXN0aW5nUGFnZXNcRGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/DogListingPages/Edit.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2dMaXN0aW5nUGFnZXNcRWRpdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/DogListingPages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2dMaXN0aW5nUGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/Error.razor]
@@ -215,6 +239,14 @@ build_metadata.AdditionalFiles.CssScope = b-lqy5ypol0s
 [C:/Users/zande/CSCI_213_Project/Fetch/Components/Layout/NavBar.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2QmFyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-jx6gdtvphr
+
+[C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/Browse.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCcm93c2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-frsc2682l7
+
+[C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/DogFrame.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2dGcmFtZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-neltn61qat
 
 [C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y

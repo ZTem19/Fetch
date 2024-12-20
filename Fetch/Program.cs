@@ -1,11 +1,16 @@
-using FetchApp.Components;
+﻿using FetchApp.Components;
 using FetchApp.Components.Account;
 using FetchApp.Data;
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContextFactory<FetchAppContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("FetchAppContext") ?? throw new InvalidOperationException("Connection string 'FetchAppContext' not found.")));
+
+builder.Services.AddQuickGridEntityFrameworkAdapter();
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
@@ -52,6 +57,7 @@ else
     app.UseExceptionHandler("/Error", createScopeForErrors: true);
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
+    app.UseMigrationsEndPoint();
 }
 
 app.UseHttpsRedirection();

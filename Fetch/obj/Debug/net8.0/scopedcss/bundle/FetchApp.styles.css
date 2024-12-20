@@ -1,3 +1,5 @@
+@import '_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css';
+
 /* _content/FetchApp/Components/Layout/MainLayout.razor.rz.scp.css */
 
 
@@ -55,7 +57,7 @@
     grid-template-columns: auto 1fr auto;
     align-items: center;
     width: 100%;
-    height: 15em;
+    height: fit-content;
     background-color: lightgray;
     font-family: Verdana, sans-serif;
 }
@@ -120,6 +122,64 @@
     border-radius: 50%;
 }
 
+/* _content/FetchApp/Components/Pages/Browse.razor.rz.scp.css */
+.outerContainer[b-frsc2682l7] {
+    background-color: rgb(200, 200, 200, .4);
+    height:fit-content;
+    border-radius: 2em;
+}
+
+.titlebar[b-frsc2682l7] {
+    font-family: 'Times New Roman';
+    font-weight: 500;
+    font-size: 2em;
+    height:2.5em;
+}
+
+
+.innerContainer[b-frsc2682l7] {
+    display: grid;
+    gap: .5em;
+    grid-template-columns: 20fr 20fr 20fr 20fr 20fr 
+}
+/* _content/FetchApp/Components/Pages/DogFrame.razor.rz.scp.css */
+.container[b-neltn61qat] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: lightgray;
+    width: fit-content;
+    height: fit-content;
+    width: 10vw;
+    min-width: fit-content;
+    max-width: 25vw;
+}
+
+.title[b-neltn61qat] {
+    display: flex;
+    justify-content:space-between;
+    height: 1.5em;
+    padding-top: 1em;
+}
+
+.name[b-neltn61qat] {
+    width: fit-content;
+    min-width: fit-content;
+}
+
+.age[b-neltn61qat] {
+    width: fit-content;
+}
+
+.picture[b-neltn61qat] {
+    width: inherit;
+    height: fit-content;
+    border-radius:.5em;
+}
+
+.description[b-neltn61qat] {
+
+}
 /* _content/FetchApp/Components/Pages/Home.razor.rz.scp.css */
 .homepage[b-njyna77eq5] {
     font-family: Verdana, sans-serif;

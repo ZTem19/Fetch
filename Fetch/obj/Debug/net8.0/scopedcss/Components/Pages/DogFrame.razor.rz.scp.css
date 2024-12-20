@@ -1,0 +1,37 @@
+.container[b-neltn61qat] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: lightgray;
+    width: fit-content;
+    height: fit-content;
+    width: 10vw;
+    min-width: fit-content;
+    max-width: 25vw;
+}
+
+.title[b-neltn61qat] {
+    display: flex;
+    justify-content:space-between;
+    height: 1.5em;
+    padding-top: 1em;
+}
+
+.name[b-neltn61qat] {
+    width: fit-content;
+    min-width: fit-content;
+}
+
+.age[b-neltn61qat] {
+    width: fit-content;
+}
+
+.picture[b-neltn61qat] {
+    width: inherit;
+    height: fit-content;
+    border-radius:.5em;
+}
+
+.description[b-neltn61qat] {
+
+}

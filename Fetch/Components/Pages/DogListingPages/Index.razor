@@ -1,0 +1,38 @@
+﻿@page "/doglistings"
+@using Microsoft.EntityFrameworkCore
+@using Microsoft.AspNetCore.Components.QuickGrid
+@using FetchApp.Data
+@implements IAsyncDisposable
+@inject IDbContextFactory<FetchAppContext> DbFactory
+
+<PageTitle>Index</PageTitle>
+
+<h1>Index</h1>
+
+<p>
+    <a href="doglistings/create">Create New</a>
+</p>
+
+<QuickGrid Class="table" Items="context.DogListing">
+    <PropertyColumn Property="doglisting => doglisting.Age" />
+    <PropertyColumn Property="doglisting => doglisting.Name" />
+    <PropertyColumn Property="doglisting => doglisting.Breed" />
+    <PropertyColumn Property="doglisting => doglisting.ImagePath" />
+
+    <TemplateColumn Context="doglisting">
+        <a href="@($"doglistings/edit?id={doglisting.Id}")">Edit</a> |
+        <a href="@($"doglistings/details?id={doglisting.Id}")">Details</a> |
+        <a href="@($"doglistings/delete?id={doglisting.Id}")">Delete</a>
+    </TemplateColumn>
+</QuickGrid>
+
+@code {
+    private FetchAppContext context = default!;
+
+    protected override void OnInitialized()
+    {
+        context = DbFactory.CreateDbContext();
+    }
+
+    public async ValueTask DisposeAsync() => await context.DisposeAsync();
+}

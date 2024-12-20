@@ -1,0 +1,19 @@
+﻿.outerContainer {
+    background-color: rgb(200, 200, 200, .4);
+    height:fit-content;
+    border-radius: 2em;
+}
+
+.titlebar {
+    font-family: 'Times New Roman';
+    font-weight: 500;
+    font-size: 2em;
+    height:2.5em;
+}
+
+
+.innerContainer {
+    display: grid;
+    gap: .5em;
+    grid-template-columns: 20fr 20fr 20fr 20fr 20fr 
+}

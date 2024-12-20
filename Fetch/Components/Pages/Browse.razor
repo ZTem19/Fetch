@@ -1,0 +1,56 @@
+﻿@page "/browse"
+@rendermode InteractiveServer
+@using FetchApp.Data
+@using Microsoft.EntityFrameworkCore
+@implements IAsyncDisposable
+@inject IDbContextFactory<FetchAppContext> DbFactory
+
+<PageTitle>Available Dogs</PageTitle>
+
+<div class="titlebar">
+	Available Dogs
+</div>
+
+<div class="outerContainer">
+
+	
+	<div class="innerContainer">
+
+		@foreach(DogListing dogListing in getPage(1)){
+			<DogFrame Dog="dogListing"/>
+		}
+
+	</div>
+
+</div>
+
+
+
+@code {
+	private FetchAppContext context = default!;
+
+	protected override void OnInitialized()
+	{
+		context = DbFactory.CreateDbContext();
+	}
+
+	public async ValueTask DisposeAsync() => await context.DisposeAsync();
+
+	private IQueryable<DogListing[]>? _dogPages;
+
+	private void getDogPages(int chunksize)
+	{
+		_dogPages = context.DogListing.Chunk(50);
+	}
+
+	private List<DogListing> getPage(int page)
+	{
+		if(_dogPages != null){
+			return _dogPages.ElementAt(page).ToList();
+		}
+
+		return DogService.Dogs;
+	}
+
+
+ }
