@@ -3037,7 +3037,7 @@
       ]
     },
     {
-      "Route": "FetchApp.krh41em809.styles.css",
+      "Route": "FetchApp.naycdain9l.styles.css",
       "AssetFile": "FetchApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3051,7 +3051,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9467"
+          "Value": "9791"
         },
         {
           "Name": "Content-Type",
@@ -3059,11 +3059,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8CvjbKf5o4tnqBMorTm4p0LDSlekddNd1Lor2xyo/zI=\""
+          "Value": "\"n620scJbXlQmfpWfCn47uaYhltB1jih+Z6QcojdRovc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 17:35:10 GMT"
+          "Value": "Fri, 20 Dec 2024 17:54:06 GMT"
         },
         {
           "Name": "Link",
@@ -3073,11 +3073,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "krh41em809"
+          "Value": "naycdain9l"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8CvjbKf5o4tnqBMorTm4p0LDSlekddNd1Lor2xyo/zI="
+          "Value": "sha256-n620scJbXlQmfpWfCn47uaYhltB1jih+Z6QcojdRovc="
         },
         {
           "Name": "label",
@@ -3100,7 +3100,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9467"
+          "Value": "9791"
         },
         {
           "Name": "Content-Type",
@@ -3108,11 +3108,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8CvjbKf5o4tnqBMorTm4p0LDSlekddNd1Lor2xyo/zI=\""
+          "Value": "\"n620scJbXlQmfpWfCn47uaYhltB1jih+Z6QcojdRovc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 17:35:10 GMT"
+          "Value": "Fri, 20 Dec 2024 17:54:06 GMT"
         },
         {
           "Name": "Link",
@@ -3122,7 +3122,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8CvjbKf5o4tnqBMorTm4p0LDSlekddNd1Lor2xyo/zI="
+          "Value": "sha256-n620scJbXlQmfpWfCn47uaYhltB1jih+Z6QcojdRovc="
         }
       ]
     },

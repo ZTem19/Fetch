@@ -15,7 +15,7 @@
     display: flex;
     justify-content: space-between;
     height: 1.5em;
-    padding-top: 1em;
+    padding: 1em 0 2em 0;
     font-size: 2em;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .picture {
-    width: 75%;
+    width: 100%;
     height: fit-content;
     grid-area: picture;
     display: flex;
@@ -47,7 +47,7 @@
 
 .description {
     line-height: 1.2em;
-    padding: .25em;
+    padding: 2em;
 }
 
 .adoptBtn img{
@@ -64,6 +64,11 @@
     width: 50%
 }
 
+.adoptBtn {
+    justify-self:center;
+    padding: 2em;
+}
+
 .leftside {
     display: flex;
     flex-direction: column;
@@ -72,8 +77,11 @@
     width: fit-content;
 }
 
+
 .rightside {
     display:flex;
     flex-direction: column;
+    justify-content:space-between;
     flex-grow: 3;
 }
+

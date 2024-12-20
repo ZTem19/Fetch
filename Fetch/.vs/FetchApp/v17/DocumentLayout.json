@@ -39,8 +39,7 @@
               "ViewState": "AgIAABoAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-20T03:06:10.085Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -64,7 +63,7 @@
               "RelativeDocumentMoniker": "Components\\Pages\\DogAdoptionPage.razor",
               "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogAdoptionPage.razor",
               "RelativeToolTip": "Components\\Pages\\DogAdoptionPage.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-20T15:49:40.898Z",
               "IsPinned": true,
@@ -78,7 +77,7 @@
               "RelativeDocumentMoniker": "Components\\Pages\\DogAdoptionPage.razor.css",
               "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogAdoptionPage.razor.css",
               "RelativeToolTip": "Components\\Pages\\DogAdoptionPage.razor.css",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-20T15:56:09.538Z",
               "IsPinned": true,
