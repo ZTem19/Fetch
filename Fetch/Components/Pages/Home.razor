@@ -1,15 +1,99 @@
 ﻿@page "/"
+@using FetchApp.Data
+@inject DogService DogService
+
+
 
 <PageTitle>Fetch</PageTitle>
 
-<h1>Hello, world!</h1>
+<div class="homepage">
+    <section class="welcome-section">
+        <h1>Welcome to Fetch, a non-profit, dog-focused adoption shelter.</h1>
 
-<p>Welcome to your new app.</p>
+        <h2>Fetch your Fur-ever friend!</h2>
 
-<NavLink class="nav-link" href="/users/create"> 
-	<p>Create Users</p>
-</NavLink>
+        <p>
+            At Fetch, we believe that every dog deserves a loving home. 
+            <p>Our mission is to connect rescue dogs with families who can provide them with the love and care they deserve. </p> 
+            <p>We are dedicated to finding the perfect match for every dog that comes through our doors.</p>
+            <p>We have a variety of breeds and sizes, so you are sure to find the perfect companion for you and your family. </p>
+        </p>
 
-<NavLink class="nav-link" href="/users"> 
-	<p>View Users</p>
-</NavLink>
+        <!-- Link to Available dogs -->            @*works*@
+        <NavLink class="explore-button" href="/dogs">Explore Available Dogs</NavLink>   
+    </section>
+
+        <!-- Featured Dogs Section -->
+    <section class="featured-dogs"> 
+        <h2>Meet Some of Our Adoptable Friends</h2>
+        <div class="dog-gallery"> 
+           @foreach (var dog in DogService.GetRandomDogs(4))     @* This will take 4 random dogs from hardcoded in DogService, if dog list database is available, jsut change*@
+            {
+                <div class="dog-card">
+                    <img src="@dog.ImagePath" alt="@dog.Name" />
+                    <h3>@dog.Name</h3>
+                    <p>@dog.Breed</p> <br />
+                    <p>@dog.Age</p>
+
+                 @*BUTTON does not link to anythign because we are msising the ADOPT/Application process --> assigned to someone else*@
+                    <button class="adopt-button">Adopt @dog.Name</button>
+                </div>
+                
+            }
+        </div>
+
+    </section>
+
+
+    <!-- About Fetch Section -->
+    <section class="about-fetch">
+        <div class="about-fetch-content">
+            <h2>Why Choose Fetch?</h2>
+
+                 <p>We’ve been working with rescue dogs for over a decade, helping over 1,000 dogs find their forever homes.</p>
+                 <p>When you adopt through Fetch, you’re not just giving a dog a home—you’re saving a life.</p>
+            <ul>
+                <p>
+                <p>• 100% Non-profit organization</p>
+                <p>• Experienced staff to guide you through the adoption process</p>
+                <p>• All dogs are spayed/neutered and vaccinated</p>
+                </p>
+            </ul>
+            <p>
+            <NavLink class="more-info-button" href="/shelter-info">Learn More About Fetch</NavLink>
+            </p>
+        </div>
+    </section>
+
+    <!-- Call-to-Action Section -->
+    <section class="call-to-action">
+        <h2>Ready to Make a Difference?</h2>
+        <p>Adopting a dog is a big step, but our team is here to help you every step of the way.</p>
+
+        @*BUTTON does not link to anythign because we are msising the ADOPT/Application process --> assigned to someone else*@
+        <button class="start-adoption-button">Start the Adoption Process</button>
+    </section>
+
+
+</div>
+
+@inject NavigationManager NavigationManager
+
+
+
+@code {
+
+    <!-- Not working right now -->
+    private void NavigateToShelterInfo()
+    {
+        NavigationManager.NavigateTo("/shelter-info");
+    }
+
+    private void NavigateToDogs()
+    {
+        NavigationManager.NavigateTo("/dogs");
+    }
+}
+
+
+

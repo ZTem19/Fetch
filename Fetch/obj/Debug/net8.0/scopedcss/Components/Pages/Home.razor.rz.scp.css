@@ -1,0 +1,166 @@
+.homepage[b-njyna77eq5] {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    padding: 2em;
+}
+
+
+.welcome-section[b-njyna77eq5] {
+    max-width: 1400px;
+    margin: 0 auto;
+    margin-bottom: 2em;
+    text-align: center;
+    background-color: rgb(255, 255, 255, 0.7);  /* white and has 70% opacisty (0.7) */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+    .welcome-section h1[b-njyna77eq5] {
+        font-size: 2.5em;
+        margin-bottom: 0.5em;
+    }
+
+    .welcome-section h2[b-njyna77eq5] {
+        font-size: 1.8em;
+        margin-bottom: 1em;
+    }
+
+    .welcome-section p[b-njyna77eq5] {
+        font-size: 1.2em;
+        margin-bottom: 1.5em;
+    }
+
+.explore-button[b-njyna77eq5] {
+    display: inline-block;
+    padding: 0.7em 1.5em;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none; /*remove underline*/
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 1em;
+}
+
+.explore-button:hover[b-njyna77eq5] {
+    background-color: #0056b3;
+}
+
+
+.featured-dogs[b-njyna77eq5] {
+    margin-bottom: 2em;
+}
+
+.dog-gallery[b-njyna77eq5] {
+    display: flex;
+    gap: 1.5em;
+    justify-content: center;
+}
+
+.dog-card[b-njyna77eq5] {
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1em;
+    max-width: 200px;
+    background-color: rgb(255, 255, 255, 0.7); /* white and has 70% opacity */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+    .dog-card img[b-njyna77eq5] {
+        width: 100%;
+        border-radius: 8px;
+        margin-bottom: 1em;
+    }
+
+.adopt-button[b-njyna77eq5] {
+    padding: 0.5em;
+    font-size: 0.9em;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .adopt-button:hover[b-njyna77eq5] {
+        background-color: #218838;
+    }
+
+.about-fetch ul[b-njyna77eq5] {
+    text-align: left;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.about-fetch-content[b-njyna77eq5] {
+    margin: 0 auto;
+    display: inline-block;
+    background-color: rgb(255, 255, 255, 0.6); /* white and has 60% opacity */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.call-to-action[b-njyna77eq5] {
+    margin-top: 2em;
+}
+
+.start-adoption-button[b-njyna77eq5] {
+    padding: 0.7em 1.5em;
+    font-size: 1.1em;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .start-adoption-button:hover[b-njyna77eq5] {
+        background-color: #0056b3;
+    }
+
+
+.more-info-button[b-njyna77eq5] {
+    padding: 0.7em 1.5em;
+    font-size: 1em;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 1em; /* Adds spacing above the button */
+}
+
+.more-info-button:hover[b-njyna77eq5] {
+    background-color: #0056b3;
+}
+
+
+.dog-card[b-njyna77eq5] {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    height: auto;
+    width: 100%;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.dog-card h3[b-njyna77eq5] {
+    margin: 0.5em 0; /* Adjusts space above and below the dog's name */
+    display: block;
+}
+
+.dog-card p[b-njyna77eq5] {
+    margin: 0.5em 0; /* Adjusts space above and below each paragraph */
+    display: block; /* a */
+}
+
+
+
+
+

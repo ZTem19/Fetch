@@ -1,43 +1,70 @@
-.navbar[b-9d7aopz163] {
-    width: 100vw;
-    height: fit-content;
-    padding: 2vh 0 2vh 0 ;
-    background-color: lightgray;
-    display: flex;
+.navbar[b-jx6gdtvphr] {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
     align-items: center;
-    justify-content: center;
-    font-size: 1em;
-    position: sticky;
-    top: 0;
-}
-  
-.navbar-item[b-9d7aopz163] {
-    width: fit-content;
-    height:fit-content;
-    flex-direction:row;
+    width: 100%;
+    height: 15em;
+    background-color: lightgray;
+    font-family: Verdana, sans-serif;
 }
 
-.pawico[b-9d7aopz163] {
-    height: 1.7em;
-    margin: 0;
+.navbar-left[b-jx6gdtvphr] {
+    display: inline-flex;
+    gap: 15px;
+}
+
+.navbar-right[b-jx6gdtvphr] {
+    margin-left: auto;
+    display: flex;
+    gap: 10px;
+    width: auto;
+    height: auto;
+}
+
+.navbar-item[b-jx6gdtvphr] {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.pawico[b-jx6gdtvphr] {
+    width: 12em;
+    margin: 1em;
     padding: 0;
     border-radius: 8px;
     vertical-align:text-bottom;
 }
 
-.titlelink[b-9d7aopz163] {
+.titlelink[b-jx6gdtvphr] {
     text-decoration: none;
+    text-decoration-line: none;
     color: black;
     font-size: 2em;
 }
 
-.username[b-9d7aopz163] {
+.username[b-jx6gdtvphr] {
     color: black;
     font-size: 1.5em;
+    text-decoration-line: none;
 }
 
-.accountico[b-9d7aopz163] {
-    margin: .2em 3em 0em 1em;
-    width: 2em;
-    height: 2em;
+.accountico[b-jx6gdtvphr] {
+    margin: 0.5em;
+    width: 8em;
+    height: 8em;
+    border-radius: 10%;
+    object-fit: contain;
+    transition: transform 0.3s ease;
 }
+
+.accountico:hover[b-jx6gdtvphr] {
+    transform: scale(1.5);
+}
+
+.homeico[b-jx6gdtvphr] {                  /* not being used right now*/
+    margin: 1em;
+    width: 20em;
+    height: 20em;
+    border-radius: 50%;
+}
+

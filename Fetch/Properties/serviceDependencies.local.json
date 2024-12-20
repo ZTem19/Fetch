@@ -1,15 +1,8 @@
 {
   "dependencies": {
     "mssql1": {
-      "secretStore": "LocalSecretsFile",
       "type": "mssql.local",
-      "connectionId": "ConnectionStrings:FetchContext1",
-      "dynamicId": null
-    },
-    "mssql2": {
-      "ignored": "true",
-      "type": "mssql",
-      "connectionId": "ConnectionStrings:FetchContext"
+      "connectionId": "ConnectionStrings:DefaultConnection"
     }
   }
 }

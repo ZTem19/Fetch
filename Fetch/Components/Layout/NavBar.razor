@@ -1,42 +1,174 @@
 ﻿<!-- This component is the nav bar at the top of the any page. -->
 
 <div class="navbar">
+	<div class="navbar-left">
+		<div class="navbar-item">
+			<NavLink class="nav-link" href="/">
+				<img class="pawico" src="../../Assets/FetchLogo2.png" alt="Paw Picture" />
+				<span class="titlelink"> </span>
+			</NavLink>
+	    </div>
 
-	<div class="navbar-item" style="flex-grow: 3; margin: 0 0 0 1em">
-		<NavLink class="nav-link" href="/">
-			<span> 
-				<img class="pawico" src="../../Assets/pawclipartdark.png" alt="Paw Picture" />
-			</span>
-			<span class="titlelink">
-				Fetch
-			</span>
-		</NavLink>
+	
+		@*Navigation: Dogs Page*@
+		<div class="navbar-item">
+			<NavLink class="nav-link" href="/Dogs">
+				<img class="accountico" src="../../Assets/availabledogs_transparent.png" alt="Available Dogs" />
+			</NavLink>
+		</div>
+
+
+		@*Navigation: View Adopted Dogs Page*@
+		<div class="navbar-item">
+			<NavLink class="nav-link" href="/AdoptedDogs">
+				<img class="accountico" src="../../Assets/adopteddogs_transparent.png" alt="Adopted Dogs" />
+			</NavLink>
+		</div>
+
+
+		@*Navigation: Shelter Info*@
+		<div class="navbar-item">
+			<NavLink class="nav-link" href="/shelter-info">
+				<img class="accountico" src="../../Assets/shelterinfo_transparent.png" alt="Shelter Info" />
+			</NavLink>
+		</div>
+
+
+		@*Navigation: News*@
+		<div class="navbar-item">
+			<NavLink class="nav-link" href="/Error">
+				@*TO BE MADE*@
+				<img class="accountico" src="../../Assets/new_transparent.png" alt="News" />
+			</NavLink>
+		</div>
+
+		
+
 	</div>
+
+	@*
 
 	<div class="navbar-item">
 		<NavLink class="nav-link" href="@getAccountPath()" >
 			<span class="username">@getUserName()</span>
 		</NavLink>
 	</div>
+	*@
 
-	<div class="navbar-item">
-		<NavLink class="nav-link" href="/Error">
-			<img class="accountico" src="../../Assets/blankaccount.png" alt="Account Picture"/>
-		</NavLink>
+	<div class="navbar-right">
+		@*
+		<div class="navbar-item">
+			<NavLink class="nav-link" href="/Error">
+				<img class="accountico" src="../../Assets/blankaccount.png" alt="Account Picture"/>
+			</NavLink>
+		</div>
+		*@
+
+
+		@*Navigation: Contact*@
+		<div class="navbar-item">
+			<NavLink class="nav-link" href="/contact">
+				<img class="accountico" src="../../Assets/contact_transparent.png" alt="Contact" />
+			</NavLink>
+		</div>
+
+
+	   @*Navigation: Profile*@
+		<div class="navbar-item">
+		  <NavLink class="nav-link" href="/Profile">
+				<img class="accountico" src="../../Assets/userpic_transparent.png" alt="View Your Profile" />
+		  </NavLink>
+		</div>
+
+	
+		@* Account Stuff Starts Here*@
+
+		 <AuthorizeView>
+			@*Can Only View When Signed In*@
+				<Authorized>
+					<div class="navbar-item px-3">
+						<NavLink class="nav-link" href="Account/Manage">
+							<span class="bi bi-person-fill-nav-menu" aria-hidden="true"></span> @context.User.Identity?.Name
+						</NavLink>
+					</div>
+					<div class="navbar-item px-3">
+						<form action="Account/Logout" method="post">
+							<AntiforgeryToken />
+							<input type="hidden" name="ReturnUrl" value="@currentUrl" />
+							<button type="submit" class="nav-link">
+								<span class="bi bi-arrow-bar-left-nav-menu" aria-hidden="true"></span> Logout
+							</button>
+						</form>
+					</div>
+				</Authorized>
+
+			@*If Not Signed In, Will be Asked to Sign In or Register*@
+				<NotAuthorized>
+					<div class="navbar-item px-3">
+						<NavLink class="nav-link" href="Account/Register">
+							<span class="bi bi-person-nav-menu" aria-hidden="true"></span> Register
+						</NavLink>
+					</div>
+					<div class="navbar-item px-3">
+						<NavLink class="nav-link" href="Account/Login">
+							<span class="bi bi-person-badge-nav-menu" aria-hidden="true"></span> Login
+						</NavLink>
+					</div>
+				</NotAuthorized>
+		</AuthorizeView>
 	</div>
 
 </div>
 
+	
+
 @code {
+	[CascadingParameter(Name = "user")]
+	protected Data.ApplicationUser? currentUser { get; set; }
+
+	[Inject]
+	NavigationManager NavigationManager { get; set; } = default;
+
+	private string? currentUrl;
+
+	protected override void OnInitialized()
+	{
+		currentUrl = NavigationManager.ToBaseRelativePath(NavigationManager.Uri);
+		NavigationManager.LocationChanged += OnLocationChanged;
+	}
+
+	private void OnLocationChanged(object? sender, LocationChangedEventArgs e) 
+	{ 
+		currentUrl = NavigationManager.ToBaseRelativePath(e.Location); 
+		StateHasChanged(); 
+	}
+
+
 
 	//Get Current users name or return "login" if no user is logged in
 	public string getUserName()
 	{
-		return "Login";
+		// System.Diagnostics.Debug.WriteLine($"Current User is: {currentUser.FirstName}");
+		// if(currentUser != null && currentUser.FirstName != null){
+		// 	return currentUser.FirstName;
+		// }
+
+		return currentUser?.UserName ?? "Login";					/* not being used right now, using the Navlink to Account>Login instead*/
 	}
 
 	public string getAccountPath()
 	{
-		return "/Example";
+		return currentUser != null ? "Account/Manage" : "Account/Login";
 	}
+
+	public void Dispose() 
+	{ 
+		NavigationManager.LocationChanged -= OnLocationChanged; 
+	}
+
+	// protected override void OnInitialized()
+	// {
+	// 	base.OnInitialized();
+	// 	getUserName();
+	// }
 }

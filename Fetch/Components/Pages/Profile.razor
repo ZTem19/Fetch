@@ -1,0 +1,34 @@
+﻿@page "/profile"
+
+@using Microsoft.AspNetCore.Authorization
+
+@attribute [Authorize]
+
+<PageTitle>Profile</PageTitle>
+
+<h1>You are currently logged in.</h1>
+
+<AuthorizeView>
+    Hello @context.User.Identity?.Name!
+    <br />
+    <br/>
+
+     <h2>Welcome to your profile!</h2>
+     <p>Name: </p>
+     <p>Address:</p>
+
+     <br />
+     <br />
+
+    <h3>View your adoption applications!</h3>
+    <p>Application status: SCHEDULE HOME VISIT, etc</p>
+
+    <h4>Pending Applications:</h4>
+     <p>Default: No pending applications</p>
+
+    <h3>Foster Application Status: </h3>
+        <p>Default: Not a Foster</p>
+    <h3>Volunteer Application Status: </h3>
+    <p>Default: Not a Volunteer</p>
+</AuthorizeView>
+<p></p>

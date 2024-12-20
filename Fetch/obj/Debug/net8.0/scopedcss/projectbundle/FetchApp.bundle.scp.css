@@ -1,0 +1,289 @@
+/* _content/FetchApp/Components/Layout/MainLayout.razor.rz.scp.css */
+
+
+#blazor-error-ui[b-lqy5ypol0s] {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss[b-lqy5ypol0s] {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+
+
+.homepage[b-lqy5ypol0s] {
+    font-family: Verdana, sans-serif;
+}
+
+
+.main-layout[b-lqy5ypol0s] {
+    font-family: Verdana, sans-serif;       /*  font ? not sure if this worked */
+    background-color: lightblue;
+   
+}
+
+.content[b-lqy5ypol0s] {
+    background-image: url('../../Assets/background2.png');
+    background-repeat: repeat;
+    background-size: auto;
+    background-position: top left;
+    min-height: 100vh;
+    font-family: Verdana, sans-serif;
+    padding: 20px;
+}
+
+
+
+
+
+
+
+
+/* _content/FetchApp/Components/Layout/NavBar.razor.rz.scp.css */
+.navbar[b-jx6gdtvphr] {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    width: 100%;
+    height: 15em;
+    background-color: lightgray;
+    font-family: Verdana, sans-serif;
+}
+
+.navbar-left[b-jx6gdtvphr] {
+    display: inline-flex;
+    gap: 15px;
+}
+
+.navbar-right[b-jx6gdtvphr] {
+    margin-left: auto;
+    display: flex;
+    gap: 10px;
+    width: auto;
+    height: auto;
+}
+
+.navbar-item[b-jx6gdtvphr] {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.pawico[b-jx6gdtvphr] {
+    width: 12em;
+    margin: 1em;
+    padding: 0;
+    border-radius: 8px;
+    vertical-align:text-bottom;
+}
+
+.titlelink[b-jx6gdtvphr] {
+    text-decoration: none;
+    text-decoration-line: none;
+    color: black;
+    font-size: 2em;
+}
+
+.username[b-jx6gdtvphr] {
+    color: black;
+    font-size: 1.5em;
+    text-decoration-line: none;
+}
+
+.accountico[b-jx6gdtvphr] {
+    margin: 0.5em;
+    width: 8em;
+    height: 8em;
+    border-radius: 10%;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+}
+
+.accountico:hover[b-jx6gdtvphr] {
+    transform: scale(1.5);
+}
+
+.homeico[b-jx6gdtvphr] {                  /* not being used right now*/
+    margin: 1em;
+    width: 20em;
+    height: 20em;
+    border-radius: 50%;
+}
+
+/* _content/FetchApp/Components/Pages/Home.razor.rz.scp.css */
+.homepage[b-njyna77eq5] {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    padding: 2em;
+}
+
+
+.welcome-section[b-njyna77eq5] {
+    max-width: 1400px;
+    margin: 0 auto;
+    margin-bottom: 2em;
+    text-align: center;
+    background-color: rgb(255, 255, 255, 0.7);  /* white and has 70% opacisty (0.7) */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+    .welcome-section h1[b-njyna77eq5] {
+        font-size: 2.5em;
+        margin-bottom: 0.5em;
+    }
+
+    .welcome-section h2[b-njyna77eq5] {
+        font-size: 1.8em;
+        margin-bottom: 1em;
+    }
+
+    .welcome-section p[b-njyna77eq5] {
+        font-size: 1.2em;
+        margin-bottom: 1.5em;
+    }
+
+.explore-button[b-njyna77eq5] {
+    display: inline-block;
+    padding: 0.7em 1.5em;
+    font-size: 1em;
+    text-align: center;
+    text-decoration: none; /*remove underline*/
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 1em;
+}
+
+.explore-button:hover[b-njyna77eq5] {
+    background-color: #0056b3;
+}
+
+
+.featured-dogs[b-njyna77eq5] {
+    margin-bottom: 2em;
+}
+
+.dog-gallery[b-njyna77eq5] {
+    display: flex;
+    gap: 1.5em;
+    justify-content: center;
+}
+
+.dog-card[b-njyna77eq5] {
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1em;
+    max-width: 200px;
+    background-color: rgb(255, 255, 255, 0.7); /* white and has 70% opacity */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+    .dog-card img[b-njyna77eq5] {
+        width: 100%;
+        border-radius: 8px;
+        margin-bottom: 1em;
+    }
+
+.adopt-button[b-njyna77eq5] {
+    padding: 0.5em;
+    font-size: 0.9em;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .adopt-button:hover[b-njyna77eq5] {
+        background-color: #218838;
+    }
+
+.about-fetch ul[b-njyna77eq5] {
+    text-align: left;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.about-fetch-content[b-njyna77eq5] {
+    margin: 0 auto;
+    display: inline-block;
+    background-color: rgb(255, 255, 255, 0.6); /* white and has 60% opacity */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.call-to-action[b-njyna77eq5] {
+    margin-top: 2em;
+}
+
+.start-adoption-button[b-njyna77eq5] {
+    padding: 0.7em 1.5em;
+    font-size: 1.1em;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+    .start-adoption-button:hover[b-njyna77eq5] {
+        background-color: #0056b3;
+    }
+
+
+.more-info-button[b-njyna77eq5] {
+    padding: 0.7em 1.5em;
+    font-size: 1em;
+    color: white;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 1em; /* Adds spacing above the button */
+}
+
+.more-info-button:hover[b-njyna77eq5] {
+    background-color: #0056b3;
+}
+
+
+.dog-card[b-njyna77eq5] {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    height: auto;
+    width: 100%;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.dog-card h3[b-njyna77eq5] {
+    margin: 0.5em 0; /* Adjusts space above and below the dog's name */
+    display: block;
+}
+
+.dog-card p[b-njyna77eq5] {
+    margin: 0.5em 0; /* Adjusts space above and below each paragraph */
+    display: block; /* a */
+}
+
+
+
+
+
