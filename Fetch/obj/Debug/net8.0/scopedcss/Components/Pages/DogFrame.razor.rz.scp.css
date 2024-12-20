@@ -10,6 +10,14 @@
     max-width: 25vw;
 }
 
+.container:hover[b-neltn61qat] {
+    background-color: rgba(230, 230, 230, .7);
+}
+
+.container *[b-neltn61qat] {
+    color:black;
+}
+
 .title[b-neltn61qat] {
     display: flex;
     justify-content:space-between;

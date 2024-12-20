@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\pages\\dogadoptionpage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\dogadoptionpage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\pages\\dogadoptionpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\dogadoptionpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,26 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\pages\\browse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\browse.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\pages\\dogframe.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\dogframe.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\pages\\dogframe.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\dogframe.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\pages\\dogadoptionpage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\pages\\dogadoptionpage.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|c:\\users\\zande\\csci_213_project\\fetch\\components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{449739A4-C605-4713-978B-BC0123125545}|FetchApp.csproj|solutionrelative:components\\layout\\navbar.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Browse.razor",
               "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\Browse.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Browse.razor",
               "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\Browse.razor",
               "RelativeToolTip": "Components\\Pages\\Browse.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-20T03:06:10.085Z",
               "IsPinned": true,
@@ -60,13 +44,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Browse.razor.css",
               "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\Browse.razor.css",
               "RelativeDocumentMoniker": "Components\\Pages\\Browse.razor.css",
               "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\Browse.razor.css",
               "RelativeToolTip": "Components\\Pages\\Browse.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-12-20T05:22:54.435Z",
               "IsPinned": true,
@@ -74,43 +58,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DogFrame.razor",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogFrame.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\DogFrame.razor",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogFrame.razor",
-              "RelativeToolTip": "Components\\Pages\\DogFrame.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DogAdoptionPage.razor",
+              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogAdoptionPage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\DogAdoptionPage.razor",
+              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogAdoptionPage.razor",
+              "RelativeToolTip": "Components\\Pages\\DogAdoptionPage.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T03:16:26.537Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DogFrame.razor.css",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogFrame.razor.css",
-              "RelativeDocumentMoniker": "Components\\Pages\\DogFrame.razor.css",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogFrame.razor.css",
-              "RelativeToolTip": "Components\\Pages\\DogFrame.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-20T04:25:26.248Z",
+              "WhenOpened": "2024-12-20T15:49:40.898Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DogAdoptionPage.razor",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogAdoptionPage.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\DogAdoptionPage.razor",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogAdoptionPage.razor",
-              "RelativeToolTip": "Components\\Pages\\DogAdoptionPage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:49:40.898Z",
+              "Title": "DogAdoptionPage.razor.css",
+              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogAdoptionPage.razor.css",
+              "RelativeDocumentMoniker": "Components\\Pages\\DogAdoptionPage.razor.css",
+              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogAdoptionPage.razor.css",
+              "RelativeToolTip": "Components\\Pages\\DogAdoptionPage.razor.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-20T15:56:09.538Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -121,45 +91,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DogAdoptionPage.razor.css",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogAdoptionPage.razor.css",
-              "RelativeDocumentMoniker": "Components\\Pages\\DogAdoptionPage.razor.css",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Pages\\DogAdoptionPage.razor.css",
-              "RelativeToolTip": "Components\\Pages\\DogAdoptionPage.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-20T15:56:09.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NavBar.razor",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Layout\\NavBar.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Layout\\NavBar.razor",
-              "RelativeToolTip": "Components\\Layout\\NavBar.razor",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAF8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-20T15:21:46.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NavBar.razor.css",
-              "DocumentMoniker": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Layout\\NavBar.razor.css",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavBar.razor.css",
-              "ToolTip": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\Components\\Layout\\NavBar.razor.css",
-              "RelativeToolTip": "Components\\Layout\\NavBar.razor.css",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAFoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-20T15:21:42.151Z",
-              "EditorCaption": ""
             }
           ]
         }

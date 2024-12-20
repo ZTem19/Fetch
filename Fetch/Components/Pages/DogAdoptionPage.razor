@@ -1,29 +1,46 @@
 ﻿@using FetchApp.Data
+@using Microsoft.EntityFrameworkCore
+@inject IDbContextFactory<FetchAppContext> DbFactory
+@inject NavigationManager NavigationManager
 
-@page "/Adpot"
+@page "/Adopt"
 
 <div class="container">
 
-	<div class="title">
+	<div class="leftside">
+		<div class="title">
 
-		<div class="name">
-			@_dog.Name
+			<div class="name">
+				@_dog?.Name
+			</div>
+
+			<div class="age">
+				@_dog?.Age
+			</div>
+
 		</div>
 
-		<div class="age">
-			@_dog.Age
+		<div class="picture">
+			<img src="@_dog?.ImagePath" alt="@(_dog?.Name)'s Beautiful Picture" />
 		</div>
 
 	</div>
 
-	<div class="picture">
-		<img src="@_dog.ImagePath" alt="@(_dog.Name)'s Beautiful Picture" />
-	</div>
+	
 
-	<div class="description">
-		<p>
-			@_dog.Description
-		</p>
+	<div class="rightside">
+		<h3>Description</h3>
+		<div class="description">
+			<p>
+				@_dog?.Description
+			</p>
+		</div>
+
+		<div class="adoptBtn">
+			<button>Adopt @_dog?.Name
+				<img src="/Assets/adoptnow_transparent.png"/>
+			</button>
+		</div>
 	</div>
 
 </div>
@@ -34,4 +51,14 @@
 
 	private DogListing? _dog;
 
+	protected override async Task OnInitializedAsync()
+	{
+		using var context = DbFactory.CreateDbContext();
+		_dog = await context.DogListing.FirstOrDefaultAsync(m => m.Id == DogId);
+
+		if (_dog is null)
+		{
+			NavigationManager.NavigateTo("notfound");
+		}
+	}
 }

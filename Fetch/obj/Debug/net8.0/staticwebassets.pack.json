@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\FetchApp.zbxqt2iie5.bundle.scp.css"
+      "PackagePath": "staticwebassets\\FetchApp.sfxerbdpuh.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\FetchLogo2.png",
@@ -39,6 +39,10 @@
     {
       "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\adopteddogs_transparent.png",
       "PackagePath": "staticwebassets\\Assets\\adopteddogs_transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\adoptnow_transparent.png",
+      "PackagePath": "staticwebassets\\Assets\\adoptnow_transparent.png"
     },
     {
       "Id": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\availabledogs_solid.png",

@@ -23,11 +23,11 @@
         <NavLink class="explore-button" href="/Browse">Explore Available Dogs</NavLink>   
     </section>
 
-        <!-- Featured Dogs Section -->
+    <!-- Featured Dogs Section -->
     <section class="featured-dogs"> 
         <h2>Meet Some of Our Adoptable Friends</h2>
         <div class="dog-gallery"> 
-           @foreach (var dog in DogService.GetRandomDogs(4))     @* This will take 4 random dogs from hardcoded in DogService, if dog list database is available, jsut change*@
+            @foreach (var dog in DogService.GetRandomDogs(4))     @* This will take 4 random dogs from hardcoded in DogService, if dog list database is available, jsut change*@
             {
                 <div class="dog-card">
                     <img src="@dog.ImagePath" alt="@dog.Name" />
@@ -35,10 +35,10 @@
                     <p>@dog.Breed</p> <br />
                     <p>@dog.Age</p>
 
-                 @*BUTTON does not link to anythign because we are msising the ADOPT/Application process --> assigned to someone else*@
+                    @*BUTTON does not link to anythign because we are msising the ADOPT/Application process --> assigned to someone else*@
                     <button class="adopt-button">Adopt @dog.Name</button>
                 </div>
-                
+
             }
         </div>
 
@@ -50,17 +50,17 @@
         <div class="about-fetch-content">
             <h2>Why Choose Fetch?</h2>
 
-                 <p>We’ve been working with rescue dogs for over a decade, helping over 1,000 dogs find their forever homes.</p>
-                 <p>When you adopt through Fetch, you’re not just giving a dog a home—you’re saving a life.</p>
+            <p>We’ve been working with rescue dogs for over a decade, helping over 1,000 dogs find their forever homes.</p>
+            <p>When you adopt through Fetch, you’re not just giving a dog a home—you’re saving a life.</p>
             <ul>
                 <p>
-                <p>• 100% Non-profit organization</p>
-                <p>• Experienced staff to guide you through the adoption process</p>
-                <p>• All dogs are spayed/neutered and vaccinated</p>
+                    <p>• 100% Non-profit organization</p>
+                    <p>• Experienced staff to guide you through the adoption process</p>
+                    <p>• All dogs are spayed/neutered and vaccinated</p>
                 </p>
             </ul>
             <p>
-            <NavLink class="more-info-button" href="/shelter-info">Learn More About Fetch</NavLink>
+                <NavLink class="more-info-button" href="/shelter-info">Learn More About Fetch</NavLink>
             </p>
         </div>
     </section>

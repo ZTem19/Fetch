@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uFvpwsxtbTNTcLVaqSGyIchKEMAXbO9Dq4ivnt5mPuI=",
+  "Hash": "5PV95fG1L0ijkHhV+lumZYTDkiESscyKOroOXIX9a7M=",
   "Source": "FetchApp",
   "BasePath": "_content/FetchApp",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "vp5d5bzvzr",
-      "Integrity": "M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg=",
+      "Fingerprint": "krh41em809",
+      "Integrity": "8CvjbKf5o4tnqBMorTm4p0LDSlekddNd1Lor2xyo/zI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "zbxqt2iie5",
-      "Integrity": "P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc=",
+      "Fingerprint": "sfxerbdpuh",
+      "Integrity": "OEjCmHoj4nDMaTs2VD7OCKMMcIuXLxUHusHBDVQs8Xo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kedz56qo9z",
-      "Integrity": "nMvrEo9e7oMmeHT/T1SIDX+wSWQpDelzQXkevJZiMEM=",
+      "Fingerprint": "hmgnf7d442",
+      "Integrity": "6W5kmQrO5oZT3gy7eKvehsSdtR2pQLk9q07QJfyCdVc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
@@ -162,6 +162,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Assets\\adopteddogs_transparent.png"
+    },
+    {
+      "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\adoptnow_transparent.png",
+      "SourceId": "FetchApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\",
+      "BasePath": "_content/FetchApp",
+      "RelativePath": "Assets/adoptnow_transparent#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uzi37grfji",
+      "Integrity": "6plXXoVYUMFjWPHMV9geaKfYPhtCBmUUYK/grHjwHFo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Assets\\adoptnow_transparent.png"
     },
     {
       "Identity": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\availabledogs_solid.png",
@@ -1035,11 +1056,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nMvrEo9e7oMmeHT/T1SIDX+wSWQpDelzQXkevJZiMEM=\""
+          "Value": "\"6W5kmQrO5oZT3gy7eKvehsSdtR2pQLk9q07QJfyCdVc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
+          "Value": "Fri, 20 Dec 2024 17:22:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1049,12 +1070,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-nMvrEo9e7oMmeHT/T1SIDX+wSWQpDelzQXkevJZiMEM="
+          "Value": "sha256-6W5kmQrO5oZT3gy7eKvehsSdtR2pQLk9q07QJfyCdVc="
         }
       ]
     },
     {
-      "Route": "app.kedz56qo9z.css",
+      "Route": "app.hmgnf7d442.css",
       "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1072,11 +1093,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"nMvrEo9e7oMmeHT/T1SIDX+wSWQpDelzQXkevJZiMEM=\""
+          "Value": "\"6W5kmQrO5oZT3gy7eKvehsSdtR2pQLk9q07QJfyCdVc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 02:23:51 GMT"
+          "Value": "Fri, 20 Dec 2024 17:22:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1086,7 +1107,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kedz56qo9z"
+          "Value": "hmgnf7d442"
         },
         {
           "Name": "label",
@@ -1094,7 +1115,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-nMvrEo9e7oMmeHT/T1SIDX+wSWQpDelzQXkevJZiMEM="
+          "Value": "sha256-6W5kmQrO5oZT3gy7eKvehsSdtR2pQLk9q07QJfyCdVc="
         }
       ]
     },
@@ -1259,6 +1280,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-XY1DTU88G1w2XS6qfF+l6tKUQJAzEDW1Mij+eSyDIbY="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/adoptnow_transparent.png",
+      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\adoptnow_transparent.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6plXXoVYUMFjWPHMV9geaKfYPhtCBmUUYK/grHjwHFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 17:20:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6plXXoVYUMFjWPHMV9geaKfYPhtCBmUUYK/grHjwHFo="
+        }
+      ]
+    },
+    {
+      "Route": "Assets/adoptnow_transparent.uzi37grfji.png",
+      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\wwwroot\\Assets\\adoptnow_transparent.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6plXXoVYUMFjWPHMV9geaKfYPhtCBmUUYK/grHjwHFo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 17:20:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uzi37grfji"
+        },
+        {
+          "Name": "label",
+          "Value": "Assets/adoptnow_transparent.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6plXXoVYUMFjWPHMV9geaKfYPhtCBmUUYK/grHjwHFo="
         }
       ]
     },
@@ -4307,7 +4410,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8011"
+          "Value": "9345"
         },
         {
           "Name": "Content-Type",
@@ -4315,11 +4418,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc=\""
+          "Value": "\"OEjCmHoj4nDMaTs2VD7OCKMMcIuXLxUHusHBDVQs8Xo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 15:58:11 GMT"
+          "Value": "Fri, 20 Dec 2024 17:35:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4329,7 +4432,101 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc="
+          "Value": "sha256-OEjCmHoj4nDMaTs2VD7OCKMMcIuXLxUHusHBDVQs8Xo="
+        }
+      ]
+    },
+    {
+      "Route": "FetchApp.krh41em809.styles.css",
+      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8CvjbKf5o4tnqBMorTm4p0LDSlekddNd1Lor2xyo/zI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 17:35:10 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "krh41em809"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8CvjbKf5o4tnqBMorTm4p0LDSlekddNd1Lor2xyo/zI="
+        },
+        {
+          "Name": "label",
+          "Value": "FetchApp.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "FetchApp.sfxerbdpuh.bundle.scp.css",
+      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OEjCmHoj4nDMaTs2VD7OCKMMcIuXLxUHusHBDVQs8Xo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 17:35:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sfxerbdpuh"
+        },
+        {
+          "Name": "label",
+          "Value": "FetchApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OEjCmHoj4nDMaTs2VD7OCKMMcIuXLxUHusHBDVQs8Xo="
         }
       ]
     },
@@ -4348,7 +4545,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8133"
+          "Value": "9467"
         },
         {
           "Name": "Content-Type",
@@ -4356,11 +4553,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg=\""
+          "Value": "\"8CvjbKf5o4tnqBMorTm4p0LDSlekddNd1Lor2xyo/zI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 15:58:11 GMT"
+          "Value": "Fri, 20 Dec 2024 17:35:10 GMT"
         },
         {
           "Name": "Link",
@@ -4370,101 +4567,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg="
-        }
-      ]
-    },
-    {
-      "Route": "FetchApp.vp5d5bzvzr.styles.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8133"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 15:58:11 GMT"
-        },
-        {
-          "Name": "Link",
-          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vp5d5bzvzr"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg="
-        },
-        {
-          "Name": "label",
-          "Value": "FetchApp.styles.css"
-        }
-      ]
-    },
-    {
-      "Route": "FetchApp.zbxqt2iie5.bundle.scp.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8011"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 15:58:11 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "zbxqt2iie5"
-        },
-        {
-          "Name": "label",
-          "Value": "FetchApp.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc="
+          "Value": "sha256-8CvjbKf5o4tnqBMorTm4p0LDSlekddNd1Lor2xyo/zI="
         }
       ]
     }

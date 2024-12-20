@@ -17,3 +17,7 @@
     gap: .5em;
     grid-template-columns: 20fr 20fr 20fr 20fr 20fr 
 }
+
+.innerContainer * {
+    color: black;
+}

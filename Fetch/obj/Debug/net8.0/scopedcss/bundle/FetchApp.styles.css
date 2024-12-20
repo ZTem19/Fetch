@@ -166,8 +166,89 @@
     gap: .5em;
     grid-template-columns: 20fr 20fr 20fr 20fr 20fr 
 }
+
+.innerContainer *[b-frsc2682l7] {
+    color: black;
+}
 /* _content/FetchApp/Components/Pages/DogAdoptionPage.razor.rz.scp.css */
-body[b-rcioj15hvv] {
+.container[b-rcioj15hvv] {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: lightgray;
+    min-width: fit-content;
+    height: fit-content;
+}
+
+    .container *[b-rcioj15hvv] {
+        color: black;
+    }
+
+.title[b-rcioj15hvv] {
+    display: flex;
+    justify-content: space-between;
+    height: 1.5em;
+    padding-top: 1em;
+    font-size: 2em;
+}
+
+.name[b-rcioj15hvv] {
+    width: fit-content;
+    min-width: fit-content;
+    padding: 0 2em 0 2em;
+}
+
+.age[b-rcioj15hvv] {
+    width: fit-content;
+    padding: 0 2em 0 2em;
+}
+
+.picture[b-rcioj15hvv] {
+    width: 75%;
+    height: fit-content;
+    grid-area: picture;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1em;
+}
+
+    .picture img[b-rcioj15hvv] {
+        border-radius: .5em;
+        max-width: 50%;
+    }
+
+.description[b-rcioj15hvv] {
+    line-height: 1.2em;
+    padding: .25em;
+}
+
+.adoptBtn img[b-rcioj15hvv]{
+    width: 25%;
+    height: 25%;
+    align-self: center;
+}
+
+.adoptBtn button[b-rcioj15hvv] {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    border-radius: 2em;
+    width: 50%
+}
+
+.leftside[b-rcioj15hvv] {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+    width: fit-content;
+}
+
+.rightside[b-rcioj15hvv] {
+    display:flex;
+    flex-direction: column;
+    flex-grow: 3;
 }
 /* _content/FetchApp/Components/Pages/DogFrame.razor.rz.scp.css */
 .container[b-neltn61qat] {
@@ -180,6 +261,14 @@ body[b-rcioj15hvv] {
     width: 10vw;
     min-width: fit-content;
     max-width: 25vw;
+}
+
+.container:hover[b-neltn61qat] {
+    background-color: rgba(230, 230, 230, .7);
+}
+
+.container *[b-neltn61qat] {
+    color:black;
 }
 
 .title[b-neltn61qat] {

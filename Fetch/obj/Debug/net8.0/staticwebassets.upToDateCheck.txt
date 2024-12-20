@@ -1,6 +1,7 @@
 wwwroot\app.css
 wwwroot\Assets\adopteddogs_solid.png
 wwwroot\Assets\adopteddogs_transparent.png
+wwwroot\Assets\adoptnow_transparent.png
 wwwroot\Assets\availabledogs_solid.png
 wwwroot\Assets\availabledogs_transparent.png
 wwwroot\Assets\background1.png

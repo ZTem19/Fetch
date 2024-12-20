@@ -13,11 +13,11 @@
 
 <div class="outerContainer">
 
-	
+
 	<div class="innerContainer">
 
-		@foreach(DogListing dogListing in getPage(1)){
-			<NavLink href="@($"/Adpot?Dog={dogListing.Id}")"> 
+		@foreach(DogListing dogListing in getPage(0)){
+			<NavLink href="@($"/Adopt?DogId={dogListing.Id}")">
 				<DogFrame Dog="dogListing"/>
 			</NavLink>
 		}
@@ -33,16 +33,19 @@
 
 	protected override void OnInitialized()
 	{
+		// When created add dogs from dog service to context
 		context = DbFactory.CreateDbContext();
+		DogService.addToContext(context);
+		getDogPages(10);
 	}
 
 	public async ValueTask DisposeAsync() => await context.DisposeAsync();
 
-	private IQueryable<DogListing[]>? _dogPages;
+	private IEnumerable<DogListing[]>? _dogPages;
 
 	private void getDogPages(int chunksize)
 	{
-		_dogPages = context.DogListing.Chunk(50);
+		_dogPages = context.DogListing.ToList().AsEnumerable().Chunk(chunksize);
 	}
 
 	private List<DogListing> getPage(int page)
@@ -51,8 +54,6 @@
 			return _dogPages.ElementAt(page).ToList();
 		}
 
-		return DogService.Dogs;
+		return new List<DogListing>();
 	}
-
-
- }
+}

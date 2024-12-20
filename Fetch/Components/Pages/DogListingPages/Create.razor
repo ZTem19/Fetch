@@ -65,7 +65,7 @@
     }
 
     private string scaledImagePath = "../../scaledImages"; 
-    private async Task SaveImage(InputFileChangeEventArgs e)
+    private async Task SaveImage(InputFileChangeEventArgs e) // Not currently in use
     {
         var file = e.File;
         if(!file.ContentType.StartsWith("image/")){

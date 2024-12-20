@@ -83,20 +83,22 @@ else
         }
         catch (DbUpdateConcurrencyException)
         {
-            if (!DogListingExists(DogListing!.Id))
-            {
-                NavigationManager.NavigateTo("notfound");
-            }
-            else
-            {
-                throw;
+            if(DogListing.Id != null){
+                if (!DogListingExists(DogListing!.Id))
+                {
+                    NavigationManager.NavigateTo("notfound");
+                }
+                else
+                {
+                    throw;
+                }
             }
         }
 
         NavigationManager.NavigateTo("/doglistings");
     }
 
-    private bool DogListingExists(int id)
+    private bool DogListingExists(int? id)
     {
         using var context = DbFactory.CreateDbContext();
         return context.DogListing.Any(e => e.Id == id);

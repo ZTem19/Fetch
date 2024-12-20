@@ -10,6 +10,14 @@
     max-width: 25vw;
 }
 
+.container:hover {
+    background-color: rgba(230, 230, 230, .7);
+}
+
+.container * {
+    color:black;
+}
+
 .title {
     display: flex;
     justify-content:space-between;
