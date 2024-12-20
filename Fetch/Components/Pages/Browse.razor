@@ -17,7 +17,9 @@
 	<div class="innerContainer">
 
 		@foreach(DogListing dogListing in getPage(1)){
-			<DogFrame Dog="dogListing"/>
+			<NavLink href="@($"/Adpot?Dog={dogListing.Id}")"> 
+				<DogFrame Dog="dogListing"/>
+			</NavLink>
 		}
 
 	</div>

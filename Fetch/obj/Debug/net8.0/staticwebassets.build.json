@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y9g3b4h9/kFg6aLmQGkm9BxLhBtSfLhydq/T0AoNMr8=",
+  "Hash": "uFvpwsxtbTNTcLVaqSGyIchKEMAXbO9Dq4ivnt5mPuI=",
   "Source": "FetchApp",
   "BasePath": "_content/FetchApp",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "k4kpdduu4z",
-      "Integrity": "JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY=",
+      "Fingerprint": "vp5d5bzvzr",
+      "Integrity": "M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "to35xwx777",
-      "Integrity": "E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY=",
+      "Fingerprint": "zbxqt2iie5",
+      "Integrity": "P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css"
@@ -4307,7 +4307,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6750"
+          "Value": "8011"
         },
         {
           "Name": "Content-Type",
@@ -4315,11 +4315,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY=\""
+          "Value": "\"P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 05:41:36 GMT"
+          "Value": "Fri, 20 Dec 2024 15:58:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4329,56 +4329,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY="
-        }
-      ]
-    },
-    {
-      "Route": "FetchApp.k4kpdduu4z.styles.css",
-      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6872"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 05:41:36 GMT"
-        },
-        {
-          "Name": "Link",
-          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k4kpdduu4z"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY="
-        },
-        {
-          "Name": "label",
-          "Value": "FetchApp.styles.css"
+          "Value": "sha256-P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc="
         }
       ]
     },
@@ -4397,7 +4348,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6872"
+          "Value": "8133"
         },
         {
           "Name": "Content-Type",
@@ -4405,11 +4356,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY=\""
+          "Value": "\"M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 05:41:36 GMT"
+          "Value": "Fri, 20 Dec 2024 15:58:11 GMT"
         },
         {
           "Name": "Link",
@@ -4419,12 +4370,61 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY="
+          "Value": "sha256-M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg="
         }
       ]
     },
     {
-      "Route": "FetchApp.to35xwx777.bundle.scp.css",
+      "Route": "FetchApp.vp5d5bzvzr.styles.css",
+      "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FetchApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:58:11 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vp5d5bzvzr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg="
+        },
+        {
+          "Name": "label",
+          "Value": "FetchApp.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "FetchApp.zbxqt2iie5.bundle.scp.css",
       "AssetFile": "C:\\Users\\zande\\CSCI_213_Project\\Fetch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FetchApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4434,7 +4434,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6750"
+          "Value": "8011"
         },
         {
           "Name": "Content-Type",
@@ -4442,11 +4442,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY=\""
+          "Value": "\"P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 05:41:36 GMT"
+          "Value": "Fri, 20 Dec 2024 15:58:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4456,7 +4456,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "to35xwx777"
+          "Value": "zbxqt2iie5"
         },
         {
           "Name": "label",
@@ -4464,7 +4464,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY="
+          "Value": "sha256-P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc="
         }
       ]
     }

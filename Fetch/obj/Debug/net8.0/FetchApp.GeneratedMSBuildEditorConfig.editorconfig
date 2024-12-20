@@ -244,6 +244,10 @@ build_metadata.AdditionalFiles.CssScope = b-jx6gdtvphr
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCcm93c2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-frsc2682l7
 
+[C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/DogAdoptionPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2dBZG9wdGlvblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rcioj15hvv
+
 [C:/Users/zande/CSCI_213_Project/Fetch/Components/Pages/DogFrame.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEb2dGcmFtZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-neltn61qat

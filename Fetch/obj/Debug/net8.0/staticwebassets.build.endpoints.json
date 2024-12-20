@@ -2955,55 +2955,6 @@
       ]
     },
     {
-      "Route": "FetchApp.k4kpdduu4z.styles.css",
-      "AssetFile": "FetchApp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6872"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 05:41:36 GMT"
-        },
-        {
-          "Name": "Link",
-          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k4kpdduu4z"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY="
-        },
-        {
-          "Name": "label",
-          "Value": "FetchApp.styles.css"
-        }
-      ]
-    },
-    {
       "Route": "FetchApp.styles.css",
       "AssetFile": "FetchApp.styles.css",
       "Selectors": [],
@@ -3018,7 +2969,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6872"
+          "Value": "8133"
         },
         {
           "Name": "Content-Type",
@@ -3026,11 +2977,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY=\""
+          "Value": "\"M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 20 Dec 2024 05:41:36 GMT"
+          "Value": "Fri, 20 Dec 2024 15:58:11 GMT"
         },
         {
           "Name": "Link",
@@ -3040,7 +2991,56 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JBNJRidSvX5VvvyNJgacDMysf8fQuDRjAHaDCvpIPHY="
+          "Value": "sha256-M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg="
+        }
+      ]
+    },
+    {
+      "Route": "FetchApp.vp5d5bzvzr.styles.css",
+      "AssetFile": "FetchApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Dec 2024 15:58:11 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Microsoft.AspNetCore.Components.QuickGrid/Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vp5d5bzvzr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M3/22p167EVZBfh71EdMl0jYxeiBcpn6pFWAdrJoCEg="
+        },
+        {
+          "Name": "label",
+          "Value": "FetchApp.styles.css"
         }
       ]
     },

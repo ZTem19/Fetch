@@ -725,3 +725,4 @@ C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\ref\FetchApp.dll
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\scopedcss\Components\Pages\DogFrame.razor.rz.scp.css
 C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\scopedcss\Components\Pages\Browse.razor.rz.scp.css
+C:\Users\zande\CSCI_213_Project\Fetch\obj\Debug\net8.0\scopedcss\Components\Pages\DogAdoptionPage.razor.rz.scp.css

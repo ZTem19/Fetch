@@ -720,23 +720,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\FetchApp.to35xwx777.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\FetchApp.zbxqt2iie5.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>FetchApp</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/FetchApp</BasePath>
-      <RelativePath>FetchApp.to35xwx777.bundle.scp.css</RelativePath>
+      <RelativePath>FetchApp.zbxqt2iie5.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>to35xwx777</Fingerprint>
-      <Integrity>E02iyPkkF7TlW3keJPYfrMSv6njgAZPOR+3fSnyIDIY=</Integrity>
+      <Fingerprint>zbxqt2iie5</Fingerprint>
+      <Integrity>P1CBucONmjtJd0o/QAnHRBH+vbEu5ZMc59gWXqVnFoc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\FetchApp.to35xwx777.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\FetchApp.zbxqt2iie5.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>
